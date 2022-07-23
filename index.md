@@ -16,8 +16,25 @@
   </tr>
 </table>
 
+## Academic History and Education Background:
+2018-      Associate Prof., Donghua University, Shanghai, China.
+2015-2018  Lecturer, Donghua University, Shanghai, China.
+2013-2015  Postdoc, Tongji University, Shanghai, China.
+2009-2010  Visiting scholar as jointly trained doctor, MSU, East Lansing, Michigan, USA.
+2008-2013  PhD, Tongji University, Shanghai, China.
+2006-2008  Graduate student, Tongji University, Shanghai, China.
+2002-2006  B.E., Tongji University, Shanghai, China.
 
-### Bio
-PhD, Associate professor in the College of Information Sciences and Technology at Donghua University. I am a member of IEEE, Chinese Society of Agricultural Engineering, and Shanghai Agricultural Engineering Association. I currently serve as a referee for a number of academic journals.
+<p>➤ <a href="https://publons.com/researcher/3014495/yinghao-shan"><strong>Publons (peer review records)</strong></a></p>
 
-### Header 3
+## Research Interests:
+Image Processing, Point Cloud Processing, Artificial Intelligence, Intelligent Visual Surveillance, and Plant Phenotyping.
+
+## Teaching:
+Semester A (Autumn): 
+1.	Data Analysis and Machine Learning (for graduate students). 
+2.	Pattern Recognition Principles and Techniques (for international students).
+Semester B (Spring): 
+1.	Digital Signal Processing (for undergraduates).
+
+
