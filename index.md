@@ -23,8 +23,7 @@
   </tr>
 </table>
 
-## Bio
-
+### Bio
 PhD, Associate professor in the College of Information Sciences and Technology at Donghua University. I am a member of IEEE, Chinese Society of Agricultural Engineering, and Shanghai Agricultural Engineering Association. I currently serve as a referee for a number of academic journals.
 
 ### Header 3
