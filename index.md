@@ -17,24 +17,36 @@
 </table>
 
 ## Academic History and Education Background:
-2018-      Associate Prof., Donghua University, Shanghai, China.
-2015-2018  Lecturer, Donghua University, Shanghai, China.
-2013-2015  Postdoc, Tongji University, Shanghai, China.
-2009-2010  Visiting scholar as jointly trained doctor, MSU, East Lansing, Michigan, USA.
-2008-2013  PhD, Tongji University, Shanghai, China.
-2006-2008  Graduate student, Tongji University, Shanghai, China.
-2002-2006  B.E., Tongji University, Shanghai, China.
+<p>2018-      Associate Prof., Donghua University, Shanghai, China.</p>
+<p>2015-2018  Lecturer, Donghua University, Shanghai, China.</p>
+<p>2013-2015  Postdoc, Tongji University, Shanghai, China.</p>
+<p>2009-2010  Visiting scholar as jointly trained doctor, MSU, East Lansing, Michigan, USA.</p>
+<p>2008-2013  PhD, Tongji University, Shanghai, China.</p>
+<p>2006-2008  Graduate student, Tongji University, Shanghai, China.</p>
+<p>2002-2006  B.E., Tongji University, Shanghai, China.</p>
 
 <!-- 注释掉该句 <p>➤ <a href="https://publons.com/researcher/3014495/yinghao-shan"><strong>Publons (peer review records)</strong></a></p>  -->
 
 ## Research Interests:
-Image Processing, Point Cloud Processing, Artificial Intelligence, Intelligent Visual Surveillance, and Plant Phenotyping.
+<p>Image Processing, Point Cloud Processing, Artificial Intelligence, Intelligent Visual Surveillance, and Plant Phenotyping.</p>
 
 ## Teaching:
-Semester A (Autumn): 
-1.	Data Analysis and Machine Learning (for graduate students). 
-2.	Pattern Recognition Principles and Techniques (for international students).
-Semester B (Spring): 
-1.	Digital Signal Processing (for undergraduates).
+<p><i>Semester A (Autumn): </i></p>
+<p>1.	Data Analysis and Machine Learning (for graduate students). </p>
+<p>2.	Pattern Recognition Principles and Techniques (for international students).</p>
+<p><i>Semester B (Spring): </i></p>
+<p>1.	Digital Signal Processing (for undergraduates).</p>
+
+## Research Projects and Talent Programs:
+<p>1.	Shanghai Rising-Star Program, Person in Charge. (07/2021-06/2024). 上海市“启明星”人才计划，主持。</p>
+<p>2.	“Research on the stereo imaging for plant phenotyping and genotype analysis”, Natural Science Foundation of Shanghai, Person in Charge. (07/2020-06/2023). 上海市自然科学基金面上项目，主持。</p>
+<p>3.	“3D imaging for analyzing the phenotypes of textile plants”, The Fundamental Research Funds for the Central Universities of China (special base project), Person in Charge. (01/2019-04/2020)</p>
+<p>4.	“Research of illumination-robust stereo vision algorithm for greenhouse plants”, National Natural Science Foundation of China, Person in Charge. (01/2017-12/2019). 国家自然科学基金（青年），主持。</p>
+<p>5.	“Digitized imaging and 3D visualization of greenhouse plants”, Shanghai Sailing Program, Person in Charge. (06/2016-05/2019). 上海市青年科技英才“扬帆计划”，主持。</p>
+<p>6.	“Research on illumination-robust stereo vision imaging tools for greenhouse plants”, The Fundamental Research Funds for the Central Universities of China, Person in Charge. (01/2016-12/2018)</p>
+<p>7.	“A research on digitization and virtual visualization of greenhouse tomato plants”, China Postdoctoral Science Foundation Special Grants, Person in Charge. (07/2014-07/2015). 中国博士后科学基金特别资助，主持。</p>
+<p>8.	“Research on key technology in an intelligent video surveillance system”, Shanghai Yangpu District Innovation and Practice base project for postdocs, Person in Charge. (02/2014-12/2014). </p>
+<p>9.	“The research of digitized imaging and virtual visualization technologies on greenhouse plants”, China Postdoctoral Science Foundation 1st class grants, Person in Charge. (07/2013-12/2014). 中国博士后科学基金一等资助，主持。</p>
+
 
 
