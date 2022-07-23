@@ -1,13 +1,5 @@
 
 <!-- 注释掉该句# Welcome to Dawei Li's Personal Homepage! -->
-<header class="page-header" role="banner">
-      <h1 class="project-name">Welcome!</h1>
-      <h2 class="project-tagline"></h2>  
-</header>
-
-<main id="content" class="main-content" role="main">
-      <h3 id="welcome">Welcome!</h3>
-
 
 <table border="0">
   <tr>
