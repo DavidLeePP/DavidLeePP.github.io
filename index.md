@@ -25,7 +25,7 @@
 2006-2008  Graduate student, Tongji University, Shanghai, China.
 2002-2006  B.E., Tongji University, Shanghai, China.
 
-<p>➤ <a href="https://publons.com/researcher/3014495/yinghao-shan"><strong>Publons (peer review records)</strong></a></p>
+<!-- 注释掉该句 <p>➤ <a href="https://publons.com/researcher/3014495/yinghao-shan"><strong>Publons (peer review records)</strong></a></p>  -->
 
 ## Research Interests:
 Image Processing, Point Cloud Processing, Artificial Intelligence, Intelligent Visual Surveillance, and Plant Phenotyping.
