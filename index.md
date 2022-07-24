@@ -49,15 +49,13 @@
 <p>9.	“The research of digitized imaging and virtual visualization technologies on greenhouse plants”, China Postdoctoral Science Foundation 1st class grants, Person in Charge. (07/2013-12/2014). 中国博士后科学基金一等资助，主持。</p>
 
 ## Academic Participation:
-<p>1.	Reviewer for a number of international conferences and journals including IEEE SPL, IEEE TCSVT, IEEE TMM, IEEE TCYB, IEEE ACCESS, IEEE RA-L, Graphics & Visual Computing, Plant Phenomics, Integrated Computer-Aided Engineering, Neurocomputing, IJPRAI, Applied Engineering in Agriculture (ASABE), Ecological Informatics, The Visual Computer, Automation in Construction, China Communications, International Journal of Remote Sensing, Scientific Programming, NCAA.</p>
-<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
-<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
-<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
-<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
-<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
-<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
-<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
-<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
+<p>1.	Chinese Society of Agricultural Engineering, Senior Member.</p>
+<p>2.	Chinese Association of Automation, Member</p>
+<p>3.	Shanghai Agricultural Engineering Association, Standing Director</p>
+<p>4.	IEEE, Member</p>
+<p>5.	IEEE CIS Shanghai Chapter, Secretary General</p>
+<p>6.	<i>Frontiers in Plant Science</i> (EI/SCI indexed, 2021 IF = 6.627), Review Editor</p>
+<p>7.	Reviewer for a number of international conferences and journals including <i>IEEE SPL, IEEE TCSVT, IEEE TMM, IEEE TCYB, IEEE ACCESS, IEEE RA-L, Graphics & Visual Computing, Plant Phenomics, Integrated Computer-Aided Engineering, Neurocomputing, IJPRAI, Applied Engineering in Agriculture (ASABE), Ecological Informatics, The Visual Computer, Automation in Construction, China Communications, International Journal of Remote Sensing, Scientific Programming, NCAA.</i></p>
 
 ## Selected Publications:
 
