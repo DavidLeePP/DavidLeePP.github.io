@@ -48,5 +48,16 @@
 <p>8.	“Research on key technology in an intelligent video surveillance system”, Shanghai Yangpu District Innovation and Practice base project for postdocs, Person in Charge. (02/2014-12/2014). </p>
 <p>9.	“The research of digitized imaging and virtual visualization technologies on greenhouse plants”, China Postdoctoral Science Foundation 1st class grants, Person in Charge. (07/2013-12/2014). 中国博士后科学基金一等资助，主持。</p>
 
+## Academic Participation:
+<p>1.	Reviewer for a number of international conferences and journals including IEEE SPL, IEEE TCSVT, IEEE TMM, IEEE TCYB, IEEE ACCESS, IEEE RA-L, Graphics & Visual Computing, Plant Phenomics, Integrated Computer-Aided Engineering, Neurocomputing, IJPRAI, Applied Engineering in Agriculture (ASABE), Ecological Informatics, The Visual Computer, Automation in Construction, China Communications, International Journal of Remote Sensing, Scientific Programming, NCAA.</p>
+<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
+<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
+<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
+<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
+<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
+<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
+<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
+<p>2.	Review Editor for Frontiers in Plant Science (EI/SCI indexed, 2021 IF = 6.627)</p>
 
+## Selected Publications:
 
