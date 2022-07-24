@@ -72,3 +72,4 @@
 
 
 
+![可放到简历页的网络框图（2部分合起来）副本](https://user-images.githubusercontent.com/109850329/180654741-78af8cf6-3f7e-4760-a3be-2cc0790a3f41.jpg)
