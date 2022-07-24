@@ -62,15 +62,15 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <img src="PSegNet框图.jpg" width="100%" /> 
+      <img src="PSegNet框图.jpg" width="80%" /> 
     </td>
   </tr>
   <tr>
-     <td width="50%">
-      <img src="PSegNet框图.jpg" width="50%" /> 
+     <td width="49%">
+      <img src="PSegNet框图.jpg" width="40%" /> 
     </td>
-    <td width="50%">
-      <img src="PSegNet框图.jpg" width="50%" /> 
+    <td width="49%">
+      <img src="PSegNet框图.jpg" width="40%" /> 
     </td>
   </tr>
 </table>
