@@ -62,7 +62,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="/Microgrid.png" width="100%" /> 
+      <img src="PSegNet框图.jpg" width="100%" /> 
     </td>
   </tr>
 </table>
