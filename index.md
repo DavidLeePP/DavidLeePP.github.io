@@ -65,6 +65,8 @@
       <img src="PSegNet框图.jpg" width="80%" /> 
     </td>
   </tr>
+</table>
+<table border="0">
   <tr>
      <td width="49%">
       <img src="2 -1.0-41帧-KITTI 7.1MB.gif" width="100%" /> 
@@ -74,4 +76,3 @@
     </td>
   </tr>
 </table>
-
