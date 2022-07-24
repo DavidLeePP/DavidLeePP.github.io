@@ -65,13 +65,13 @@
       <img src="PSegNet框图.jpg" width="100%" /> 
     </td>
   </tr>
-   <tr>
+  <tr>
      <td width="50%">
-      <img src="PSegNet框图.jpg" width="100%" /> 
+      <img src="PSegNet框图.jpg" width="50%" /> 
     </td>
     <td width="50%">
-      <img src="PSegNet框图.jpg" width="100%" /> 
+      <img src="PSegNet框图.jpg" width="50%" /> 
     </td>
-   </tr>
+  </tr>
 </table>
 
