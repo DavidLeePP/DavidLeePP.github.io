@@ -67,10 +67,10 @@
   </tr>
   <tr>
      <td width="49%">
-      <img src="PSegNet框图.jpg" width="40%" /> 
+      <img src="2 -1.0-41帧-KITTI 7.1MB.gif" width="100%" /> 
     </td>
     <td width="49%">
-      <img src="PSegNet框图.jpg" width="40%" /> 
+      <img src="2 -1.0-41帧-KITTI 7.1MB.gif" width="100%" /> 
     </td>
   </tr>
 </table>
