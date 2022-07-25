@@ -58,7 +58,7 @@
 <p>7.	Reviewer for a number of international conferences and journals including <i>IEEE SPL, IEEE TCSVT, IEEE TMM, IEEE TCYB, IEEE ACCESS, IEEE RA-L, Graphics & Visual Computing, Plant Phenomics, Integrated Computer-Aided Engineering, Neurocomputing, IJPRAI, Applied Engineering in Agriculture (ASABE), Ecological Informatics, The Visual Computer, Automation in Construction, China Communications, International Journal of Remote Sensing, Scientific Programming, NCAA.</i></p>
 
 ## Selected Publications:
-<p>[1] D. Li, J. Li, S. Xiang, and A. Pan*, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” Plant Phenomics, 2022, Article ID: 9787643. https://doi.org/10.34133/2022/9787643</p>
+<p>[1] D. Li, J. Li, S. Xiang, and A. Pan*, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color=#5B00AE>Plant Phenomics</font>, 2022, Article ID: 9787643. https://doi.org/10.34133/2022/9787643</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
