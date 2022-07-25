@@ -62,7 +62,7 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <img alt="" src="PSegNet展示图1.jpg" style="margin: 0 auto;" width="90%" /> 
+      <img alt="" src="PSegNet展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
