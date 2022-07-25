@@ -81,7 +81,7 @@
     </td>
   </tr>
 </table>
-<p>[2] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, 2022, vol. 11, no. 7: 937. (†Contributed equally)</p>
+<p>[2] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, vol. 11, no. 7: 937, 2022. (†Contributed equally)</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -96,7 +96,7 @@
     </td>
   </tr>
 </table>
-<p>[3] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, 2022, vol. 11, no. 7: 937. (†Contributed equally)</p>
+<p>[3] <b>D. Li</b>†, S. Wang†, S. Xiang, J. Li, Y. Yang*, and X.-S. Tang, “Dual-stream shadow detection network – biologically inspired shadow detection for remote sensing images,” <font color="#5B00AE"><i>Neural Computing and Applications</i></font>, vol. 34, 10039-10049, 2022. (†Contributed equally)</p>
 
 
 <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/1.js?i=5i3czlomvac&amp;s=200&amp;m=0&amp;v=false&amp;r=false&amp;b=ffffff&amp;n=false&amp;c=ff00ff" async="async"></script>
