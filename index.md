@@ -68,10 +68,10 @@
 </table>
 <table border="0">
   <tr>
-     <td width="65%">
+     <td width="55%">
       <img src="PSegNet展示图2.jpg" width="100%" /> 
     </td>
-    <td width="35%">
+    <td width="45%">
       <img src="PSegNet展示图3.jpg" width="100%" /> 
     </td>
   </tr>
