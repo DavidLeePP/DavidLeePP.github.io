@@ -61,17 +61,17 @@
 <p>[1] D. Li, J. Li, S. Xiang, and A. Pan*, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” Plant Phenomics, 2022, Article ID: 9787643. https://doi.org/10.34133/2022/9787643</p>
 <table border="0">
   <tr>
-    <td width="50%">
-      <img src="PSegNet展示图1.jpg" width="100%" /> 
+    <td width="100%">
+      <img alt="" src="PSegNet展示图1.jpg" style="margin: 0 auto;" width="90%" /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
-     <td width="45%">
+     <td width="40%">
       <img src="PSegNet展示图2.jpg" width="100%" /> 
     </td>
-    <td width="45%">
+    <td width="40%">
       <img src="PSegNet展示图3.jpg" width="100%" /> 
     </td>
   </tr>
