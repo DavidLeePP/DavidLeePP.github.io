@@ -69,10 +69,10 @@
 <table border="0">
   <tr>
      <td width="50%">
-      <img src="PSegNet展示图2" width="100%" /> 
+      <img src="PSegNet展示图2.jpg" width="100%" /> 
     </td>
     <td width="50%">
-      <img src="PSegNet展示图3" width="100%" /> 
+      <img src="PSegNet展示图3.jpg" width="100%" /> 
     </td>
   </tr>
 </table>
