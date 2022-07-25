@@ -58,13 +58,9 @@
 <p>7.	Reviewer for a number of international conferences and journals including <i>IEEE SPL, IEEE TCSVT, IEEE TMM, IEEE TCYB, IEEE ACCESS, IEEE RA-L, Graphics & Visual Computing, Plant Phenomics, Integrated Computer-Aided Engineering, Neurocomputing, IJPRAI, Applied Engineering in Agriculture (ASABE), Ecological Informatics, The Visual Computer, Automation in Construction, China Communications, International Journal of Remote Sensing, Scientific Programming, NCAA.</i></p>
 
 ## Honors and Awards:
-<p>1.	Chinese Society of Agricultural Engineering, Senior Member.</p>
-<p>2.	Chinese Association of Automation, Member</p>
-<p>3.	Shanghai Agricultural Engineering Association, Standing Director</p>
-<p>4.	IEEE, Member</p>
-<p>5.	IEEE CIS Shanghai Chapter, Secretary General</p>
-<p>6.	<i>Frontiers in Plant Science</i> (EI/SCI indexed, 2021 IF = 6.627), Review Editor</p>
-<p>7.	Reviewer for a number of international conferences and journals including <i>IEEE SPL, IEEE TCSVT, IEEE TMM, IEEE TCYB, IEEE ACCESS, IEEE RA-L, Graphics & Visual Computing, Plant Phenomics, Integrated Computer-Aided Engineering, Neurocomputing, IJPRAI, Applied Engineering in Agriculture (ASABE), Ecological Informatics, The Visual Computer, Automation in Construction, China Communications, International Journal of Remote Sensing, Scientific Programming, NCAA.</i></p>
+<p>1.	Best Paper Award for Young Researchers at The Annual Academic Conference of Chinese Society of Agricultural Engineering (3/4), Zhenjiang, China. (08/2013)</p>
+<p>2.	Best Doctoral Dissertation Award of Year 2013 (Top 28 among 592, 1/1), Tongji University, Shanghai, China. (05/2013)</p>
+<p>3.	Finalist for Best Paper Award (Top 6 among 899, 1/3) in the 11th International Conference on Control, Automation, Robotics and Vision (ICARCV2010), Singapore. (12/2010)</p>
 
 ## Selected Publications:
 <p>[1] D. Li, J. Li, S. Xiang, and A. Pan*, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
