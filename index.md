@@ -81,3 +81,9 @@
     </td>
   </tr>
 </table>
+<p>[2] D. Li, J. Li, S. Xiang, and A. Pan*, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
+
+
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5i3czlomvac&amp;s=200&amp;m=0&amp;v=false&amp;r=false&amp;b=ffffff&amp;n=false&amp;c=ff00ff" async="async"></script>
