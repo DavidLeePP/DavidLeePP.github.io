@@ -63,7 +63,7 @@
 <p>3.	Finalist for Best Paper Award (Top 6 among 899, 1/3) in the 11th International Conference on Control, Automation, Robotics and Vision (ICARCV2010), Singapore. (12/2010)</p>
 
 ## Selected Publications:
-<p>[1] D. Li, J. Li, S. Xiang, and A. Pan*, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
+<p>[1] <b>D. Li</b>, J. Li, S. Xiang, and A. Pan, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -81,8 +81,14 @@
     </td>
   </tr>
 </table>
-<p>[2] D. Li, J. Li, S. Xiang, and A. Pan*, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
-
+<p>[2] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, 2022, vol. 11, no. 7: 937. (†Contributed equally)</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="PSegNet展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 
 
