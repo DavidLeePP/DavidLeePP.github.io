@@ -17,7 +17,7 @@
 </table>
 
 ## Academic History and Education Background:
-<p>2018-      Associate Prof., Donghua University, Shanghai, China.</p>
+<p>2018-           Associate Prof., Donghua University, Shanghai, China.</p>
 <p>2015-2018  Lecturer, Donghua University, Shanghai, China.</p>
 <p>2013-2015  Postdoc, Tongji University, Shanghai, China.</p>
 <p>2009-2010  Visiting scholar as jointly trained doctor, MSU, East Lansing, Michigan, USA.</p>
