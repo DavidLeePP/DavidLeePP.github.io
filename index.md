@@ -115,14 +115,17 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="DSSDN展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="PlantNet展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
-    <td width="100%" align="center">
-      <img alt="" src="DSSDN展示图2.jpg" width="90%" style="margin: 0 auto;"  /> 
+     <td width="50%">
+      <img src="PlantNet展示图2.jpg" width="100%" /> 
+    </td>
+    <td width="50%">
+      <img src="PlantNet展示图3.jpg" width="100%" /> 
     </td>
   </tr>
 </table>
