@@ -129,7 +129,7 @@
     </td>
   </tr>
 </table>
-<p>[5] <b>D. Li</b>†, S. Wang†, S. Xiang, J. Li, Y. Yang, and X.-S. Tang, “Dual-stream shadow detection network – biologically inspired shadow detection for remote sensing images,” <font color="#5B00AE"><i>Neural Computing and Applications</i></font>, vol. 34, 10039-10049, 2022. (†Contributed equally)</p>
+<p>[5] X.-S. Tang, X. Xie, K. Hao, <b>D. Li</b>*, and M. Zhao, “A line-segment-based non-maximum suppression method for accurate object detection,”  <font color="#5B00AE"><i>Knowledge-Based Systems</i></font>, 2022, 108885.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
