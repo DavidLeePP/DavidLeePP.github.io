@@ -100,5 +100,4 @@
 
 
 <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/1.js?i=5i3czlomvac&amp;s=200&amp;m=0&amp;v=false&amp;r=false&amp;b=ffffff&amp;n=false&amp;c=ff00ff" async="async"></script>
-<p>Visited:</p>
-<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=davidleepp.github.io&digit=style/plain/13/&reloads=0" alt="reliablecounter.com" title="reliablecounter.com" border="0"></a><br /><a href="http://relia" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">reliablecounter blog</a>
+
