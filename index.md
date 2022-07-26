@@ -129,7 +129,7 @@
     </td>
   </tr>
 </table>
-<p>[5] X.-S. Tang, X. Xie, K. Hao, <b>D. Li</b>*, and M. Zhao, “A line-segment-based non-maximum suppression method for accurate object detection,”  <font color="#5B00AE"><i>Knowledge-Based Systems</i></font>, 2022, 108885.</p>
+<p>[5] X.-S. Tang, X. Xie, K. Hao, <b>D. Li</b>*, and M. Zhao, “A line-segment-based non-maximum suppression method for accurate object detection,”  <font color="#5B00AE"><i>Knowledge-Based Systems</i></font>, vol. 251, no. 5, 2022, 108885.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
