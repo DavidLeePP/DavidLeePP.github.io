@@ -111,7 +111,21 @@
     </td>
   </tr>
 </table>
-
+<p>[4] <b>D. Li</b>†, G. Shi†, J. Li, Y. Chen, S. Zhang, S. Xiang, and S. Jin*, “PlantNet: A dual-function point cloud segmentation network for multiple plant species”,  <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 184, 2022, pp. 243-263. (†Contributed equally)</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="DSSDN展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="DSSDN展示图2.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 
 
