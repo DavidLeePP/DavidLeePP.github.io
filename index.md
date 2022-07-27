@@ -195,7 +195,7 @@
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <!-- 本文总阅读量<span id="busuanzi_value_page_pv"></span>次 -->
-<p align="left"><b>本站总访问量<span id="busuanzi_value_site_pv"></span>次</b></p>
+<p align="left"><b>The Webpage visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
 <!-- 本站总访客数<span id="busuanzi_value_site_uv"></span>人 -->
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/0.js?i=5pw0b63kgzk&amp;d=3&amp;p=0&amp;b=0&amp;w=293&amp;g=2&amp;f=arial&amp;fs=12&amp;r=0&amp;c0=362b05&amp;c1=375363&amp;c2=000000&amp;ic0=0&amp;ic1=0" async="async"></script>
