@@ -187,7 +187,7 @@
     </td>
   </tr>
 </table>
-<p>[8] D. Li, S. Wang, X.-S. Tang, W. Kong*, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
+<p>[8] <b>D. Li</b>, S. Wang, X.-S. Tang, W. Kong*, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
