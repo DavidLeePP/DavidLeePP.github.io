@@ -7,8 +7,7 @@
       <h2>Dawei Li 李大威</h2>
       <p><b>Associate Professor, PhD</b></p>
       <p><b>Dean of Automation Department</b></p>
-      <p><b>I am with the College of Information Sciences and Technology, 
-        the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM), and the Engineering Research Center of Digitized Textile & Fashion Technology of Ministry of Education</b></p>
+      <p><b>I am with the College of Information Sciences and Technology, the Engineering Research Center of Digitized Textile & Fashion Technology of Ministry of Education, and with the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM)</b></p>
       <p><b>Donghua University (211, Double First-Class)</b></p>
       <p><b>2999 North Renmin Rd., Songjiang District, Shanghai, China 201620</b></p>
       <p><b>Email: daweili[A.T.]dhu.edu.cn</b></p>
@@ -188,7 +187,28 @@
     </td>
   </tr>
 </table>
-
+<p>[8] <b>D. Li</b>, S. Yan, M. Zhao, and T.W.S. Chow, “Spatiotemporal Tree Filtering for Enhancing Image Change Detection”, <font color="#5B00AE"><i>IEEE Transactions on Image Processing</i></font>, vol. 29, pp. 8805-8820, 2020.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="FSTF展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="FSTF展示图2.jpg" width="100%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="FSTF展示图3.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5957ypwtpjb&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;s=341" async="async"></script>
