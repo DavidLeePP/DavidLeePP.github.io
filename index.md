@@ -148,7 +148,7 @@
 
 
 
-<script type="text/javascript" src="https://rf.revolvermaps.com/0/0/1.js?i=5i3czlomvac&amp;s=200&amp;m=0&amp;v=false&amp;r=false&amp;b=ffffff&amp;n=false&amp;c=ff00ff" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5957ypwtpjb&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;s=341" async="async"></script>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <!-- 本文总阅读量<span id="busuanzi_value_page_pv"></span>次 -->
