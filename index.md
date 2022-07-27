@@ -187,25 +187,32 @@
     </td>
   </tr>
 </table>
-<p>[8] <b>D. Li</b>, S. Yan, M. Zhao, and T.W.S. Chow, “Spatiotemporal Tree Filtering for Enhancing Image Change Detection”, <font color="#5B00AE"><i>IEEE Transactions on Image Processing</i></font>, vol. 29, pp. 8805-8820, 2020.</p>
+<p>[8] D. Li, S. Wang, X.-S. Tang, W. Kong*, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="FSTF展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DSAN展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="FSTF展示图2.jpg" width="100%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DSAN展示图2.jpg" width="95%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="FSTF展示图3.jpg" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DSAN展示图3.gif" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="DSAN展示图4.gif" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
