@@ -166,6 +166,28 @@
     </td>
   </tr>
 </table>
+<p>[7] <b>D. Li</b>, S. Yan, M. Zhao, and T.W.S. Chow, “Spatiotemporal Tree Filtering for Enhancing Image Change Detection”, <font color="#5B00AE"><i>IEEE Transactions on Image Processing</i></font>, vol. 29, pp. 8805-8820, 2020.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="FSTF展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="FSTF展示图2.gif" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="FSTF展示图3.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 
 
