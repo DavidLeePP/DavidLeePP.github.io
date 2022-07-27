@@ -144,7 +144,21 @@
     </td>
   </tr>
 </table>
-
+<p>[6] <b>D. Li</b>, G. Shi, Y. Wu, Y. Yang, and M. Zhao, “Multi-scale neighborhood feature extraction and aggregation for point cloud segmentation”, <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 31, no. 6, 2021, pp. 2175-2191.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="KBS展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="KBS展示图2.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 
 
