@@ -177,7 +177,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="FSTF展示图2.gif" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="FSTF展示图2.jpg" width="100%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
