@@ -187,7 +187,7 @@
     </td>
   </tr>
 </table>
-<p>[8] <b>D. Li</b>, S. Wang, X.-S. Tang, W. Kong*, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
+<p>[8] <b>D. Li</b>, S. Wang, X.-S. Tang, W. Kong, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -216,7 +216,7 @@
     </td>
   </tr>
 </table>
-<p>[9] <b>D. Li</b>, S. Wang, X.-S. Tang, W. Kong*, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
+<p>[9] <b>D. Li</b>, G. Shi, W. Kong, S. Wang, and Y. Chen, “A leaf segmentation and phenotypic feature extraction framework for Multi-View Stereo plant point clouds,” <font color="#5B00AE"><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i></font>, vol. 13, 2020, pp. 2321-2336.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
