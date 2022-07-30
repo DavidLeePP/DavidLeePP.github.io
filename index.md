@@ -248,15 +248,17 @@
 
 <p>[14] <b>D. Li</b>, L. Xu, and H. Liu, “Detection of Uneaten Fish Food Pellets in Underwater Images for Aquaculture,” <font color="#5B00AE"><i>Aquacultural Engineering</i></font>, vol. 78, Part B, pp. 85-94, 2017.</p>
 
-<p>[15] <b>D. Li</b>, L. Xu, C. Tan, E.D. Goodman, D. Fu, and L. Xin, “Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 15, no. 2, 2015, pp. 4019-4051.</p>
+<p>[15] Y. Su, L. Xu, and <b>D. Li</b>, “Adaptive Fuzzy Control of a Class of MIMO Nonlinear System with Actuator Saturation for Greenhouse Climate Control Problem,” <font color="#5B00AE"><i>IEEE Transactions on Automation Science and Engineering</i></font>, vol. 13, no. 2, 2016, pp. 772-788.</p>
 
-<p>[16] <b>D. Li</b>, L. Xu, and E. Goodman, “On-line EM Variants for Multivariate Normal Mixture Model in Background Learning and Moving Foreground Detection,” <font color="#5B00AE"><i>Journal of Mathematical Imaging and Vision</i></font>, vol. 48, no. 1, 2014, pp. 114-133.</p>
+<p>[16] <b>D. Li</b>, L. Xu, C. Tan, E.D. Goodman, D. Fu, and L. Xin, “Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 15, no. 2, 2015, pp. 4019-4051.</p>
 
-<p>[17] <b>D. Li</b>, L. Xu, and E. Goodman, “Illumination-robust Foreground Detection in a Video Surveillance System,” <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 23, no. 10, pp. 1637-1650, 2013.</p>
+<p>[17] <b>D. Li</b>, L. Xu, and E. Goodman, “On-line EM Variants for Multivariate Normal Mixture Model in Background Learning and Moving Foreground Detection,” <font color="#5B00AE"><i>Journal of Mathematical Imaging and Vision</i></font>, vol. 48, no. 1, 2014, pp. 114-133.</p>
 
-<p>[18] <b>D. Li</b>, L. Xu, E. Goodman, Y. Xu, and W. Yang, “Integrating a statistical background-foreground extraction algorithm and SVM classifier for pedestrian detection and tracking”, <font color="#5B00AE"><i>Integrated Computer-Aided Engineering</i></font>, vol. 20, no.3, 2013, pp. 201-216.</p>
+<p>[18] <b>D. Li</b>, L. Xu, and E. Goodman, “Illumination-robust Foreground Detection in a Video Surveillance System,” <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 23, no. 10, pp. 1637-1650, 2013.</p>
 
-<p>[19] <b>D. Li</b>, L. Xu, and E. Goodman, “Online Background Learning for Illumination-robust Foreground Detection,” <font color="#5B00AE"><i>in: Proc. 11th International Conference on Control, Automation, Robotics and Vision (ICARCV)</i></font>, 2010, pp. 1093-1100. (<i>Finalist for Best Paper Award</i>)</p>
+<p>[19] <b>D. Li</b>, L. Xu, E. Goodman, Y. Xu, and W. Yang, “Integrating a statistical background-foreground extraction algorithm and SVM classifier for pedestrian detection and tracking”, <font color="#5B00AE"><i>Integrated Computer-Aided Engineering</i></font>, vol. 20, no.3, 2013, pp. 201-216.</p>
+
+<p>[20] <b>D. Li</b>, L. Xu, and E. Goodman, “Online Background Learning for Illumination-robust Foreground Detection,” <font color="#5B00AE"><i>in: Proc. 11th International Conference on Control, Automation, Robotics and Vision (ICARCV)</i></font>, 2010, pp. 1093-1100. (<i>Finalist for Best Paper Award</i>)</p>
 
 
 
