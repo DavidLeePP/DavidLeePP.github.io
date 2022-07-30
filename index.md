@@ -238,13 +238,28 @@
     </td>
   </tr>
 </table>
+<p>[10] <b>D. Li</b>, Y. Cao, G. Shi, X. Cai, Y. Chen, S. Wang, and S. Yan, “An overlapping-free leaf segmentation method for plant point clouds,” <font color="#5B00AE"><i>IEEE Access</i></font>, vol. 7, no. 9, pp. 129054-129070, 2019.</p>
+
+<p>[11] <b>D. Li</b>, S. Yan, X. Cai, Y. Cao, and S. Wang, “An Integrated image filter for enhancing change detection results,” <font color="#5B00AE"><i>IEEE Access</i></font>, vol. 7, no. 1, pp. 91034-91051, 2019.</p>
+
+<p>[12] <b>D. Li</b>, Y. Cao, X.-S. Tang, S. Yan, and X. Cai, “Leaf Segmentation on Dense Plant Point Clouds with Facet Region Growing,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 18, no. 11, Article 3625, 2018.</p>
+
+<p>[13] <b>D. Li</b>, L. Xu, X. Tang, S. Sun, X. Cai, and P. Zhang, “3D Imaging of Greenhouse Plants with an Inexpensive Binocular Stereo Vision System,” <font color="#5B00AE"><i>Remote Sensing</i></font>, vol. 9, no. 5, Article 508, 2017.</p>
+
+<p>[14] <b>D. Li</b>, L. Xu, and H. Liu, “Detection of Uneaten Fish Food Pellets in Underwater Images for Aquaculture,” <font color="#5B00AE"><i>Aquacultural Engineering</i></font>, vol. 78, Part B, pp. 85-94, 2017.</p>
+
+<p>[15] <b>D. Li</b>, L. Xu, C. Tan, E.D. Goodman, D. Fu, and L. Xin, “Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 15, no. 2, 2015, pp. 4019-4051.</p>
+
+<p>[16] <b>D. Li</b>, L. Xu, and E. Goodman, “On-line EM Variants for Multivariate Normal Mixture Model in Background Learning and Moving Foreground Detection,” <font color="#5B00AE"><i>Journal of Mathematical Imaging and Vision</i></font>, vol. 48, no. 1, 2014, pp. 114-133.</p>
+
+<p>[17] <b>D. Li</b>, L. Xu, and E. Goodman, “Illumination-robust Foreground Detection in a Video Surveillance System,” <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 23, no. 10, pp. 1637-1650, 2013.</p>
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5957ypwtpjb&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;s=341" async="async"></script>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <!-- 本文总阅读量<span id="busuanzi_value_page_pv"></span>次 -->
-<p align="left"><b>The webpage visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
+<p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
 <!-- 本站总访客数<span id="busuanzi_value_site_uv"></span>人 -->
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/0.js?i=5pw0b63kgzk&amp;d=3&amp;p=0&amp;b=0&amp;w=293&amp;g=2&amp;f=arial&amp;fs=12&amp;r=0&amp;c0=362b05&amp;c1=375363&amp;c2=000000&amp;ic0=0&amp;ic1=0" async="async"></script>
