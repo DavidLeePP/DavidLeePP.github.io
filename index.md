@@ -278,6 +278,20 @@
 </table>
 
 <p>[12] <b>D. Li</b>, Y. Cao, X.-S. Tang, S. Yan, and X. Cai, “Leaf Segmentation on Dense Plant Point Clouds with Facet Region Growing,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 18, no. 11, Article 3625, 2018.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="FACETS展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="FACETS展示图2.gif" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 <p>[13] <b>D. Li</b>, L. Xu, X. Tang, S. Sun, X. Cai, and P. Zhang, “3D Imaging of Greenhouse Plants with an Inexpensive Binocular Stereo Vision System,” <font color="#5B00AE"><i>Remote Sensing</i></font>, vol. 9, no. 5, Article 508, 2017.</p>
 
