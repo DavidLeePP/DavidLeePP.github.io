@@ -234,7 +234,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="JSTARS展示图3.jpg" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="JSTARS展示图3.jpg" width="80%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
