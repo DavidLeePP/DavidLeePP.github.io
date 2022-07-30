@@ -288,7 +288,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="FACETS展示图2.gif" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="FACETS展示图2.gif" width="60%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
