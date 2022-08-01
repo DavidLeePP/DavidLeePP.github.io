@@ -80,6 +80,7 @@
     </td>
   </tr>
 </table>
+
 <p>[2] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, vol. 11, no. 7: 937, 2022. (†Contributed equally)</p>
 <table border="0">
   <tr>
@@ -95,6 +96,7 @@
     </td>
   </tr>
 </table>
+
 <p>[3] <b>D. Li</b>†, S. Wang†, S. Xiang, J. Li, Y. Yang, and X.-S. Tang, “Dual-stream shadow detection network – biologically inspired shadow detection for remote sensing images,” <font color="#5B00AE"><i>Neural Computing and Applications</i></font>, vol. 34, 10039-10049, 2022. (†Contributed equally)</p>
 <table border="0">
   <tr>
@@ -106,10 +108,11 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="DSSDN展示图2.jpg" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DSSDN展示图2.jpg" width="83%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
+
 <p>[4] <b>D. Li</b>†, G. Shi†, J. Li, Y. Chen, S. Zhang, S. Xiang, and S. Jin, “PlantNet: A dual-function point cloud segmentation network for multiple plant species”,  <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 184, 2022, pp. 243-263. (†Contributed equally)</p>
 <table border="0">
   <tr>
