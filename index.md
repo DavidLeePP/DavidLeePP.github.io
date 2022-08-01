@@ -294,14 +294,85 @@
 </table>
 
 <p>[13] <b>D. Li</b>, L. Xu, X. Tang, S. Sun, X. Cai, and P. Zhang, “3D Imaging of Greenhouse Plants with an Inexpensive Binocular Stereo Vision System,” <font color="#5B00AE"><i>Remote Sensing</i></font>, vol. 9, no. 5, Article 508, 2017.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="RS展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="RS展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="RS展示图3.gif" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 <p>[14] <b>D. Li</b>, L. Xu, and H. Liu, “Detection of Uneaten Fish Food Pellets in Underwater Images for Aquaculture,” <font color="#5B00AE"><i>Aquacultural Engineering</i></font>, vol. 78, Part B, pp. 85-94, 2017.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="AQUA展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="AQUA展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 <p>[15] Y. Su, L. Xu, and <b>D. Li</b>, “Adaptive Fuzzy Control of a Class of MIMO Nonlinear System with Actuator Saturation for Greenhouse Climate Control Problem,” <font color="#5B00AE"><i>IEEE Transactions on Automation Science and Engineering</i></font>, vol. 13, no. 2, 2016, pp. 772-788.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="TASE展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="TASE展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 <p>[16] <b>D. Li</b>, L. Xu, C. Tan, E.D. Goodman, D. Fu, and L. Xin, “Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 15, no. 2, 2015, pp. 4019-4051.</p>
 
+
 <p>[17] <b>D. Li</b>, L. Xu, and E. Goodman, “On-line EM Variants for Multivariate Normal Mixture Model in Background Learning and Moving Foreground Detection,” <font color="#5B00AE"><i>Journal of Mathematical Imaging and Vision</i></font>, vol. 48, no. 1, 2014, pp. 114-133.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="JMIV展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="JMIV展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="JMIV展示图3.gif" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 <p>[18] <b>D. Li</b>, L. Xu, and E. Goodman, “Illumination-robust Foreground Detection in a Video Surveillance System,” <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 23, no. 10, pp. 1637-1650, 2013.</p>
 
