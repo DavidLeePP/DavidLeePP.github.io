@@ -304,7 +304,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="RS展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+      <img alt="" src="RS展示图2.jpg" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
@@ -327,7 +327,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="AQUA展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+      <img alt="" src="AQUA展示图2.jpg" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
@@ -343,7 +343,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="TASE展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+      <img alt="" src="TASE展示图2.jpg" width="80%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
@@ -355,21 +355,21 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="JMIV展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="JMIV展示图1.jpg" width="70%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="JMIV展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+      <img alt="" src="JMIV展示图2.jpg" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="JMIV展示图3.gif" width="60%" style="margin: 0 auto;"  /> 
+      <img alt="" src="JMIV展示图3.gif" width="70%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
