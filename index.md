@@ -381,6 +381,20 @@
 </table>
 
 <p>[18] <b>D. Li</b>, L. Xu, and E. Goodman, “Illumination-robust Foreground Detection in a Video Surveillance System,” <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 23, no. 10, pp. 1637-1650, 2013.</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SPK展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SPK展示图2.gif" width="80%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 <p>[19] <b>D. Li</b>, L. Xu, E. Goodman, Y. Xu, and W. Yang, “Integrating a statistical background-foreground extraction algorithm and SVM classifier for pedestrian detection and tracking”, <font color="#5B00AE"><i>Integrated Computer-Aided Engineering</i></font>, vol. 20, no.3, 2013, pp. 201-216.</p>
 
