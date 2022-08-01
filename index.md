@@ -349,7 +349,13 @@
 </table>
 
 <p>[16] <b>D. Li</b>, L. Xu, C. Tan, E.D. Goodman, D. Fu, and L. Xin, “Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 15, no. 2, 2015, pp. 4019-4051.</p>
-
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="DV展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 
 <p>[17] <b>D. Li</b>, L. Xu, and E. Goodman, “On-line EM Variants for Multivariate Normal Mixture Model in Background Learning and Moving Foreground Detection,” <font color="#5B00AE"><i>Journal of Mathematical Imaging and Vision</i></font>, vol. 48, no. 1, 2014, pp. 114-133.</p>
 <table border="0">
