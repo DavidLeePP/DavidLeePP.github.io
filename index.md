@@ -411,8 +411,8 @@
     <td width="70%" align="center">
       <img alt="" src="ICARCV展示图1.jpg" width="100%" style="margin: 0 auto;"  /> 
     </td>
-        <td width="70%" align="center">
-      <img alt="" src="ICARCV展示图2.jpg" width="100%" style="margin: 0 auto;"  /> 
+    <td width="30%" align="center">
+      <img alt="" src="ICARCV展示图2.jpg" width="80%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
