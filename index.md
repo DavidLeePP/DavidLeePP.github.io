@@ -37,15 +37,15 @@
 <p>1.	Digital Signal Processing (for undergraduates).</p>
 
 ## Research Projects and Talent Programs:
-<p>1.	Shanghai Rising-Star Program, Person in Charge. (07/2021-06/2024). 上海市“启明星”人才计划，主持。</p>
-<p>2.	“Research on the stereo imaging for plant phenotyping and genotype analysis”, Natural Science Foundation of Shanghai, Person in Charge. (07/2020-06/2023). 上海市自然科学基金面上项目，主持。</p>
+<p>1.	Shanghai Rising-Star Program, Person in Charge. (07/2021-06/2024).</p>
+<p>2.	“Research on the stereo imaging for plant phenotyping and genotype analysis”, Natural Science Foundation of Shanghai, Person in Charge. (07/2020-06/2023).</p>
 <p>3.	“3D imaging for analyzing the phenotypes of textile plants”, The Fundamental Research Funds for the Central Universities of China (special base project), Person in Charge. (01/2019-04/2020)</p>
-<p>4.	“Research of illumination-robust stereo vision algorithm for greenhouse plants”, National Natural Science Foundation of China, Person in Charge. (01/2017-12/2019). 国家自然科学基金（青年），主持。</p>
-<p>5.	“Digitized imaging and 3D visualization of greenhouse plants”, Shanghai Sailing Program, Person in Charge. (06/2016-05/2019). 上海市青年科技英才“扬帆计划”，主持。</p>
+<p>4.	“Research of illumination-robust stereo vision algorithm for greenhouse plants”, National Natural Science Foundation of China, Person in Charge. (01/2017-12/2019).</p>
+<p>5.	“Digitized imaging and 3D visualization of greenhouse plants”, Shanghai Sailing Program, Person in Charge. (06/2016-05/2019).</p>
 <p>6.	“Research on illumination-robust stereo vision imaging tools for greenhouse plants”, The Fundamental Research Funds for the Central Universities of China, Person in Charge. (01/2016-12/2018)</p>
-<p>7.	“A research on digitization and virtual visualization of greenhouse tomato plants”, China Postdoctoral Science Foundation Special Grants, Person in Charge. (07/2014-07/2015). 中国博士后科学基金特别资助，主持。</p>
-<p>8.	“Research on key technology in an intelligent video surveillance system”, Shanghai Yangpu District Innovation and Practice base project for postdocs, Person in Charge. (02/2014-12/2014). </p>
-<p>9.	“The research of digitized imaging and virtual visualization technologies on greenhouse plants”, China Postdoctoral Science Foundation 1st class grants, Person in Charge. (07/2013-12/2014). 中国博士后科学基金一等资助，主持。</p>
+<p>7.	“A research on digitization and virtual visualization of greenhouse tomato plants”, China Postdoctoral Science Foundation Special Grants, Person in Charge. (07/2014-07/2015).</p>
+<p>8.	“Research on key technology in an intelligent video surveillance system”, Shanghai Yangpu District Innovation and Practice base project for postdocs, Person in Charge. (02/2014-12/2014).</p>
+<p>9.	“The research of digitized imaging and virtual visualization technologies on greenhouse plants”, China Postdoctoral Science Foundation 1st class grants, Person in Charge. (07/2013-12/2014).</p>
 
 ## Academic Participation:
 <p>1.	Chinese Society of Agricultural Engineering, Senior Member.</p>
