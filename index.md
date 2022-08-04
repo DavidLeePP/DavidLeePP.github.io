@@ -16,7 +16,7 @@
 </table>
 
 ## Academic History and Education Background:
-<p>He received B.E. in Automation in 2006 from Tongji University, Shanghai, China. During 2009-2010, he was a visiting researcher at Michigan State University. In 2013, he received the Ph.D. in Control Theory and Control Engineering from Tongji University, Shanghai, China. During 2013-2015, he was a postdoc at the Department of Computer Sciences and Technology, Tongji University, Shanghai, China. Currently he is an associate professor with Donghua University, Songjiang District, Shanghai, China. </p>
+<p>I received B.E. in Automation in 2006 from Tongji University, Shanghai, China. During 2009-2010, I was a visiting researcher at Michigan State University. In 2013, I received the Ph.D. in Control Theory and Control Engineering from Tongji University, Shanghai, China. During 2013-2015, I was a postdoc at the Department of Computer Sciences and Technology, Tongji University, Shanghai, China. Currently an associate professor with Donghua University, Songjiang District, Shanghai, China. </p>
 
 <!-- 注释掉该句 <p>➤ <a href=""><strong></strong></a></p>  -->
 
