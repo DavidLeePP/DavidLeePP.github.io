@@ -5,7 +5,7 @@
   <tr>
     <td width="100%">
       <h2>Dawei Li 李大威</h2>
-      <p><b>Associate Professor, PhD, Supervisor of master students</b></p>
+      <p><b>PhD, Associate Professor (Supervisor of master students)</b></p>
       <p><b>Dean of Automation Department</b></p>
       <p><b>I am with the College of Information Sciences and Technology, the Engineering Research Center of Digitized Textile & Fashion Technology of Ministry of Education, and with the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM)</b></p>
       <p><b>Donghua University (211, Double First-Class)</b></p>
