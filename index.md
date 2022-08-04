@@ -125,6 +125,7 @@
     </td>
   </tr>
 </table>
+
 <p>[5] X.-S. Tang, X. Xie, K. Hao, <b>D. Li</b>*, and M. Zhao, “A line-segment-based non-maximum suppression method for accurate object detection,”  <font color="#5B00AE"><i>Knowledge-Based Systems</i></font>, vol. 251, no. 5, 2022, 108885.</p>
 <table border="0">
   <tr>
@@ -140,6 +141,7 @@
     </td>
   </tr>
 </table>
+
 <p>[6] <b>D. Li</b>, G. Shi, Y. Wu, Y. Yang, and M. Zhao, “Multi-scale neighborhood feature extraction and aggregation for point cloud segmentation”, <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 31, no. 6, 2021, pp. 2175-2191.</p>
 <table border="0">
   <tr>
@@ -162,6 +164,7 @@
     </td>
   </tr>
 </table>
+
 <p>[7] <b>D. Li</b>, S. Yan, M. Zhao, and T.W.S. Chow, “Spatiotemporal Tree Filtering for Enhancing Image Change Detection”, <font color="#5B00AE"><i>IEEE Transactions on Image Processing</i></font>, vol. 29, pp. 8805-8820, 2020.</p>
 <table border="0">
   <tr>
@@ -184,6 +187,7 @@
     </td>
   </tr>
 </table>
+
 <p>[8] <b>D. Li</b>, S. Wang, X.-S. Tang, W. Kong, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
 <table border="0">
   <tr>
@@ -213,6 +217,7 @@
     </td>
   </tr>
 </table>
+
 <p>[9] <b>D. Li</b>, G. Shi, W. Kong, S. Wang, and Y. Chen, “A leaf segmentation and phenotypic feature extraction framework for Multi-View Stereo plant point clouds,” <font color="#5B00AE"><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i></font>, vol. 13, 2020, pp. 2321-2336.</p>
 <table border="0">
   <tr>
@@ -235,6 +240,7 @@
     </td>
   </tr>
 </table>
+
 <p>[10] <b>D. Li</b>, Y. Cao, G. Shi, X. Cai, Y. Chen, S. Wang, and S. Yan, “An overlapping-free leaf segmentation method for plant point clouds,” <font color="#5B00AE"><i>IEEE Access</i></font>, vol. 7, no. 9, pp. 129054-129070, 2019.</p>
 <table border="0">
   <tr>
