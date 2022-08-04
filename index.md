@@ -5,7 +5,7 @@
   <tr>
     <td width="100%">
       <h2>Dawei Li 李大威</h2>
-      <p><b>Associate Professor, PhD</b></p>
+      <p><b>Associate Professor, PhD, Supervisor of master students</b></p>
       <p><b>Dean of Automation Department</b></p>
       <p><b>I am with the College of Information Sciences and Technology, the Engineering Research Center of Digitized Textile & Fashion Technology of Ministry of Education, and with the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM)</b></p>
       <p><b>Donghua University (211, Double First-Class)</b></p>
@@ -16,15 +16,9 @@
 </table>
 
 ## Academic History and Education Background:
-<p>2018-           Associate Prof., Donghua University, Shanghai, China.</p>
-<p>2015-2018  Lecturer, Donghua University, Shanghai, China.</p>
-<p>2013-2015  Postdoc, Tongji University, Shanghai, China.</p>
-<p>2009-2010  Visiting scholar as jointly trained doctor, MSU, East Lansing, Michigan, USA.</p>
-<p>2008-2013  PhD, Tongji University, Shanghai, China.</p>
-<p>2006-2008  Graduate student, Tongji University, Shanghai, China.</p>
-<p>2002-2006  B.E., Tongji University, Shanghai, China.</p>
+<p>He received B.E. in Automation in 2006 from Tongji University, Shanghai, China. During 2009-2010, he was a visiting researcher at Michigan State University. In 2013, he received the Ph.D. in Control Theory and Control Engineering from Tongji University, Shanghai, China. During 2013-2015, he was a postdoc at the Department of Computer Sciences and Technology, Tongji University, Shanghai, China. Currently he is an associate professor with Donghua University, Songjiang District, Shanghai, China. </p>
 
-<!-- 注释掉该句 <p>➤ <a href="https://publons.com/researcher/3014495/yinghao-shan"><strong>Publons (peer review records)</strong></a></p>  -->
+<!-- 注释掉该句 <p>➤ <a href=""><strong></strong></a></p>  -->
 
 ## Research Interests:
 <p>Image Processing, Point Cloud Processing, Artificial Intelligence, Intelligent Visual Surveillance, and Plant Phenotyping.</p>
