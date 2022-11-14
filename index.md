@@ -35,7 +35,7 @@
 <p>2.	“Research on the stereo imaging for plant phenotyping and genotype analysis”, Natural Science Foundation of Shanghai, Person in Charge. (07/2020-06/2023).</p>
 <p>3.	“3D imaging for analyzing the phenotypes of textile plants”, The Fundamental Research Funds for the Central Universities of China (special base project), Person in Charge. (01/2019-04/2020)</p>
 <p>4.	“Research of illumination-robust stereo vision algorithm for greenhouse plants”, National Natural Science Foundation of China, Person in Charge. (01/2017-12/2019).</p>
-<p>5.	“Digitized imaging and 3D visualization of greenhouse plants”, Shanghai Sailing Program, Person in Charge. (06/2016-05/2019).</p>
+<p>5.	Shanghai Sailing Program, Person in Charge. (06/2016-05/2019).</p>
 <p>6.	“Research on illumination-robust stereo vision imaging tools for greenhouse plants”, The Fundamental Research Funds for the Central Universities of China, Person in Charge. (01/2016-12/2018)</p>
 <p>7.	“A research on digitization and virtual visualization of greenhouse tomato plants”, China Postdoctoral Science Foundation Special Grants, Person in Charge. (07/2014-07/2015).</p>
 <p>8.	“Research on key technology in an intelligent video surveillance system”, Shanghai Yangpu District Innovation and Practice base project for postdocs, Person in Charge. (02/2014-12/2014).</p>
