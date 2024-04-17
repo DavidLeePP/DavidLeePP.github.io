@@ -5,7 +5,7 @@
   <tr>
     <td width="100%">
       <h2>Dawei Li 李大威</h2>
-      <p><b>PhD, Associate Professor (Supervisor of master students)</b></p>
+      <p><b>PhD, Associate Professor</b></p>
       <p><b>Dean of Automation Department</b></p>
       <p><b>I am with the College of Information Sciences and Technology, the Engineering Research Center of Digitized Textile & Fashion Technology of Ministry of Education, and with the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM)</b></p>
       <p><b>Donghua University (211, Double First-Class)</b></p>
@@ -55,6 +55,46 @@
 <p>3.	Finalist for Best Paper Award (Top 6 among 899, 1/3) in the 11th International Conference on Control, Automation, Robotics and Vision (ICARCV2010), Singapore. (12/2010)</p>
 
 ## Selected Publications:
+
+<p>[1] <b>D. Li</b>†, Z. Zhou†, and Y. Wei, “Unsupervised shape-aware SOM down-sampling for plant point clouds,” <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 211, 2024, pp. 172-207. (†Contributed equally)</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SOM展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SOM展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SOM展示图3.jpg" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+
+<p>[1] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, vol. 11, no. 7: 937, 2022. (†Contributed equally)</p>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="Jute展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="Jute展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+
 <p>[1] <b>D. Li</b>, J. Li, S. Xiang, and A. Pan, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
 <table border="0">
   <tr>
