@@ -79,23 +79,23 @@
   </tr>
 </table>
 
-<p>[1] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, vol. 11, no. 7: 937, 2022. (†Contributed equally)</p>
+<p>[2] <b>D. Li</b>, Y. Wei, and R. Zhu, “A comparative study on point cloud down-sampling strategies for deep learning-based crop organ segmentation,” <font color="#5B00AE"><i>Plant Methods</i></font>, vol. 19, Article No. 124, 2023. </p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="Jute展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
+      <img alt="" src="降采样展示图1.jpg" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="Jute展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+      <img alt="" src="降采样展示图2.jpg" width="90%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 
-<p>[1] <b>D. Li</b>, J. Li, S. Xiang, and A. Pan, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
+<p>[3] <b>D. Li</b>, J. Li, S. Xiang, and A. Pan, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -131,7 +131,7 @@
 </table>
 -->
 
-<p>[2] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, vol. 11, no. 7: 937, 2022. (†Contributed equally)</p>
+<p>[4] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, vol. 11, no. 7: 937, 2022. (†Contributed equally)</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -147,7 +147,7 @@
   </tr>
 </table>
 
-<p>[3] <b>D. Li</b>†, S. Wang†, S. Xiang, J. Li, Y. Yang, and X.-S. Tang, “Dual-stream shadow detection network – biologically inspired shadow detection for remote sensing images,” <font color="#5B00AE"><i>Neural Computing and Applications</i></font>, vol. 34, 10039-10049, 2022. (†Contributed equally)</p>
+<p>[5] <b>D. Li</b>†, S. Wang†, S. Xiang, J. Li, Y. Yang, and X.-S. Tang, “Dual-stream shadow detection network – biologically inspired shadow detection for remote sensing images,” <font color="#5B00AE"><i>Neural Computing and Applications</i></font>, vol. 34, 10039-10049, 2022. (†Contributed equally)</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -163,7 +163,7 @@
   </tr>
 </table>
 
-<p>[4] <b>D. Li</b>†, G. Shi†, J. Li, Y. Chen, S. Zhang, S. Xiang, and S. Jin, “PlantNet: A dual-function point cloud segmentation network for multiple plant species”,  <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 184, 2022, pp. 243-263. (†Contributed equally)</p>
+<p>[6] <b>D. Li</b>†, G. Shi†, J. Li, Y. Chen, S. Zhang, S. Xiang, and S. Jin, “PlantNet: A dual-function point cloud segmentation network for multiple plant species”,  <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 184, 2022, pp. 243-263. (†Contributed equally)</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -182,7 +182,7 @@
   </tr>
 </table>
 
-<p>[5] X.-S. Tang, X. Xie, K. Hao, <b>D. Li</b>*, and M. Zhao, “A line-segment-based non-maximum suppression method for accurate object detection,”  <font color="#5B00AE"><i>Knowledge-Based Systems</i></font>, vol. 251, no. 5, 2022, 108885.</p>
+<p>[7] X.-S. Tang, X. Xie, K. Hao, <b>D. Li</b>*, and M. Zhao, “A line-segment-based non-maximum suppression method for accurate object detection,”  <font color="#5B00AE"><i>Knowledge-Based Systems</i></font>, vol. 251, no. 5, 2022, 108885.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -198,7 +198,7 @@
   </tr>
 </table>
 
-<p>[6] <b>D. Li</b>, G. Shi, Y. Wu, Y. Yang, and M. Zhao, “Multi-scale neighborhood feature extraction and aggregation for point cloud segmentation”, <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 31, no. 6, 2021, pp. 2175-2191.</p>
+<p>[8] <b>D. Li</b>, G. Shi, Y. Wu, Y. Yang, and M. Zhao, “Multi-scale neighborhood feature extraction and aggregation for point cloud segmentation”, <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 31, no. 6, 2021, pp. 2175-2191.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -221,7 +221,7 @@
   </tr>
 </table>
 
-<p>[7] <b>D. Li</b>, S. Yan, M. Zhao, and T.W.S. Chow, “Spatiotemporal Tree Filtering for Enhancing Image Change Detection”, <font color="#5B00AE"><i>IEEE Transactions on Image Processing</i></font>, vol. 29, pp. 8805-8820, 2020.</p>
+<p>[9] <b>D. Li</b>, S. Yan, M. Zhao, and T.W.S. Chow, “Spatiotemporal Tree Filtering for Enhancing Image Change Detection”, <font color="#5B00AE"><i>IEEE Transactions on Image Processing</i></font>, vol. 29, pp. 8805-8820, 2020.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -244,7 +244,7 @@
   </tr>
 </table>
 
-<p>[8] <b>D. Li</b>, S. Wang, X.-S. Tang, W. Kong, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
+<p>[10] <b>D. Li</b>, S. Wang, X.-S. Tang, W. Kong, G. Shi, and Y. Chen, “Double-stream Atrous Network for Shadow Detection,” <font color="#5B00AE"><i>Neurocomputing</i></font>, vol. 317, 2020, pp. 167-175.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -274,7 +274,7 @@
   </tr>
 </table>
 
-<p>[9] <b>D. Li</b>, G. Shi, W. Kong, S. Wang, and Y. Chen, “A leaf segmentation and phenotypic feature extraction framework for Multi-View Stereo plant point clouds,” <font color="#5B00AE"><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i></font>, vol. 13, 2020, pp. 2321-2336.</p>
+<p>[11] <b>D. Li</b>, G. Shi, W. Kong, S. Wang, and Y. Chen, “A leaf segmentation and phenotypic feature extraction framework for Multi-View Stereo plant point clouds,” <font color="#5B00AE"><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i></font>, vol. 13, 2020, pp. 2321-2336.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -297,7 +297,7 @@
   </tr>
 </table>
 
-<p>[10] <b>D. Li</b>, Y. Cao, G. Shi, X. Cai, Y. Chen, S. Wang, and S. Yan, “An overlapping-free leaf segmentation method for plant point clouds,” <font color="#5B00AE"><i>IEEE Access</i></font>, vol. 7, no. 9, pp. 129054-129070, 2019.</p>
+<p>[12] <b>D. Li</b>, Y. Cao, G. Shi, X. Cai, Y. Chen, S. Wang, and S. Yan, “An overlapping-free leaf segmentation method for plant point clouds,” <font color="#5B00AE"><i>IEEE Access</i></font>, vol. 7, no. 9, pp. 129054-129070, 2019.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -320,7 +320,7 @@
   </tr>
 </table>
 
-<p>[11] <b>D. Li</b>, S. Yan, X. Cai, Y. Cao, and S. Wang, “An Integrated image filter for enhancing change detection results,” <font color="#5B00AE"><i>IEEE Access</i></font>, vol. 7, no. 1, pp. 91034-91051, 2019.</p>
+<p>[13] <b>D. Li</b>, S. Yan, X. Cai, Y. Cao, and S. Wang, “An Integrated image filter for enhancing change detection results,” <font color="#5B00AE"><i>IEEE Access</i></font>, vol. 7, no. 1, pp. 91034-91051, 2019.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -336,7 +336,7 @@
   </tr>
 </table>
 
-<p>[12] <b>D. Li</b>, Y. Cao, X.-S. Tang, S. Yan, and X. Cai, “Leaf Segmentation on Dense Plant Point Clouds with Facet Region Growing,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 18, no. 11, Article 3625, 2018.</p>
+<p>[14] <b>D. Li</b>, Y. Cao, X.-S. Tang, S. Yan, and X. Cai, “Leaf Segmentation on Dense Plant Point Clouds with Facet Region Growing,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 18, no. 11, Article 3625, 2018.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -352,7 +352,7 @@
   </tr>
 </table>
 
-<p>[13] <b>D. Li</b>, L. Xu, X. Tang, S. Sun, X. Cai, and P. Zhang, “3D Imaging of Greenhouse Plants with an Inexpensive Binocular Stereo Vision System,” <font color="#5B00AE"><i>Remote Sensing</i></font>, vol. 9, no. 5, Article 508, 2017.</p>
+<p>[15] <b>D. Li</b>, L. Xu, X. Tang, S. Sun, X. Cai, and P. Zhang, “3D Imaging of Greenhouse Plants with an Inexpensive Binocular Stereo Vision System,” <font color="#5B00AE"><i>Remote Sensing</i></font>, vol. 9, no. 5, Article 508, 2017.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -375,7 +375,7 @@
   </tr>
 </table>
 
-<p>[14] <b>D. Li</b>, L. Xu, and H. Liu, “Detection of Uneaten Fish Food Pellets in Underwater Images for Aquaculture,” <font color="#5B00AE"><i>Aquacultural Engineering</i></font>, vol. 78, Part B, pp. 85-94, 2017.</p>
+<p>[16] <b>D. Li</b>, L. Xu, and H. Liu, “Detection of Uneaten Fish Food Pellets in Underwater Images for Aquaculture,” <font color="#5B00AE"><i>Aquacultural Engineering</i></font>, vol. 78, Part B, pp. 85-94, 2017.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -391,7 +391,7 @@
   </tr>
 </table>
 
-<p>[15] Y. Su, L. Xu, and <b>D. Li</b>, “Adaptive Fuzzy Control of a Class of MIMO Nonlinear System with Actuator Saturation for Greenhouse Climate Control Problem,” <font color="#5B00AE"><i>IEEE Transactions on Automation Science and Engineering</i></font>, vol. 13, no. 2, 2016, pp. 772-788.</p>
+<p>[17] Y. Su, L. Xu, and <b>D. Li</b>, “Adaptive Fuzzy Control of a Class of MIMO Nonlinear System with Actuator Saturation for Greenhouse Climate Control Problem,” <font color="#5B00AE"><i>IEEE Transactions on Automation Science and Engineering</i></font>, vol. 13, no. 2, 2016, pp. 772-788.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -407,7 +407,7 @@
   </tr>
 </table>
 
-<p>[16] <b>D. Li</b>, L. Xu, C. Tan, E.D. Goodman, D. Fu, and L. Xin, “Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 15, no. 2, 2015, pp. 4019-4051.</p>
+<p>[18] <b>D. Li</b>, L. Xu, C. Tan, E.D. Goodman, D. Fu, and L. Xin, “Digitization and Visualization of Greenhouse Tomato Plants in Indoor Environments,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 15, no. 2, 2015, pp. 4019-4051.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -416,7 +416,7 @@
   </tr>
 </table>
 
-<p>[17] <b>D. Li</b>, L. Xu, and E. Goodman, “On-line EM Variants for Multivariate Normal Mixture Model in Background Learning and Moving Foreground Detection,” <font color="#5B00AE"><i>Journal of Mathematical Imaging and Vision</i></font>, vol. 48, no. 1, 2014, pp. 114-133.</p>
+<p>[19] <b>D. Li</b>, L. Xu, and E. Goodman, “On-line EM Variants for Multivariate Normal Mixture Model in Background Learning and Moving Foreground Detection,” <font color="#5B00AE"><i>Journal of Mathematical Imaging and Vision</i></font>, vol. 48, no. 1, 2014, pp. 114-133.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -439,7 +439,7 @@
   </tr>
 </table>
 
-<p>[18] <b>D. Li</b>, L. Xu, and E. Goodman, “Illumination-robust Foreground Detection in a Video Surveillance System,” <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 23, no. 10, pp. 1637-1650, 2013.</p>
+<p>[20] <b>D. Li</b>, L. Xu, and E. Goodman, “Illumination-robust Foreground Detection in a Video Surveillance System,” <font color="#5B00AE"><i>IEEE Transactions on Circuits and Systems for Video Technology</i></font>, vol. 23, no. 10, pp. 1637-1650, 2013.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -455,7 +455,7 @@
   </tr>
 </table>
 
-<p>[19] <b>D. Li</b>, L. Xu, E. Goodman, Y. Xu, and W. Yang, “Integrating a statistical background-foreground extraction algorithm and SVM classifier for pedestrian detection and tracking”, <font color="#5B00AE"><i>Integrated Computer-Aided Engineering</i></font>, vol. 20, no.3, 2013, pp. 201-216.</p>
+<p>[21] <b>D. Li</b>, L. Xu, E. Goodman, Y. Xu, and W. Yang, “Integrating a statistical background-foreground extraction algorithm and SVM classifier for pedestrian detection and tracking”, <font color="#5B00AE"><i>Integrated Computer-Aided Engineering</i></font>, vol. 20, no.3, 2013, pp. 201-216.</p>
 <table border="0">
   <tr>
     <td width="100%" align="center">
@@ -464,7 +464,7 @@
   </tr>
 </table>
 
-<p>[20] <b>D. Li</b>, L. Xu, and E. Goodman, “Online Background Learning for Illumination-robust Foreground Detection,” <font color="#5B00AE"><i>in: Proc. 11th International Conference on Control, Automation, Robotics and Vision (ICARCV)</i></font>, 2010, pp. 1093-1100. (<i>Finalist for Best Paper Award</i>)</p>
+<p>[22] <b>D. Li</b>, L. Xu, and E. Goodman, “Online Background Learning for Illumination-robust Foreground Detection,” <font color="#5B00AE"><i>in: Proc. 11th International Conference on Control, Automation, Robotics and Vision (ICARCV)</i></font>, 2010, pp. 1093-1100. (<i>Finalist for Best Paper Award</i>)</p>
 <table border="0">
   <tr>
     <td width="70%" align="center">
