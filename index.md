@@ -158,7 +158,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="DSSDN展示图2.jpg" width="83%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DSSDN展示图2.jpg" width="75%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
