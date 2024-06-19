@@ -89,6 +89,7 @@ For more details about this research, please refer to a 10-minute presentation o
 </table>
 
 <p>[2] <b>D. Li</b>, Y. Wei, and R. Zhu, “A comparative study on point cloud down-sampling strategies for deep learning-based crop organ segmentation,” <font color="#5B00AE"><i>Plant Methods</i></font>, vol. 19, Article No. 124, 2023. </p>
+
 [[Paper](https://link.springer.com/article/10.1186/s13007-023-01099-7)]
 [[Code](https://github.com/WeiyongchangChina/A-comparative-study-on-point-cloud-down-sampling-strategies-for-deep-learning-based-crop-organ-seg/)]
 
