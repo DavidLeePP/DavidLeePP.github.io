@@ -108,6 +108,9 @@ A 10-minute presentation at [[Presentation](https://www.bilibili.com/video/BV1LT
 </table>
 
 <p>[3] <b>D. Li</b>, J. Li, S. Xiang, and A. Pan, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
+
+[[Code](https://github.com/Huang2002200/PlantNet-and-PSegNet)]
+
 <table border="0">
   <tr>
     <td width="100%" align="center">
