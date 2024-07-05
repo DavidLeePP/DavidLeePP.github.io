@@ -57,12 +57,6 @@
 ## Selected Publications:
 
 <p>[1] <b>D. Li</b>†, Z. Zhou†, and Y. Wei, “Unsupervised shape-aware SOM down-sampling for plant point clouds,” <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 211, 2024, pp. 172-207. (†Contributed equally)</p>
-111
-[[Paper](https://doi.org/10.1016/j.isprsjprs.2024.03.024)]
-
-A 10-minute presentation at [[Presentation](https://www.bilibili.com/video/BV1LTg4enEM5/)]
-
-[[Code](https://github.com/chinazhouzhaoyi/SOM-down-sampling-for-plant-point-clouds/)]
 
 <table border="0">
   <tr>
@@ -87,11 +81,6 @@ A 10-minute presentation at [[Presentation](https://www.bilibili.com/video/BV1LT
 </table>
 
 <p>[2] <b>D. Li</b>, Y. Wei, and R. Zhu, “A comparative study on point cloud down-sampling strategies for deep learning-based crop organ segmentation,” <font color="#5B00AE"><i>Plant Methods</i></font>, vol. 19, Article No. 124, 2023. </p>
-
-[[Paper](https://link.springer.com/article/10.1186/s13007-023-01099-7/)]
-
-[[Code](https://github.com/WeiyongchangChina/A-comparative-study-on-point-cloud-down-sampling-strategies-for-deep-learning-based-crop-organ-seg/)]
-
 <table border="0">
   <tr>
     <td width="100%" align="center">
