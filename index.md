@@ -109,7 +109,7 @@ A 10-minute presentation at [[Presentation](https://www.bilibili.com/video/BV1LT
 
 <p>[3] <b>D. Li</b>, J. Li, S. Xiang, and A. Pan, “PSegNet: simultaneous semantic and instance segmentation for point clouds of plants,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2022, Article ID: 9787643.</p>
 
-[[Code](https://github.com/Huang2002200/PlantNet-and-PSegNet/)]
+[[Code](https://github.com/Huang2002200/PlantNet-and-PSegNet)]
 
 <table border="0">
   <tr>
@@ -180,7 +180,7 @@ A 10-minute presentation at [[Presentation](https://www.bilibili.com/video/BV1LT
 
 <p>[6] <b>D. Li</b>†, G. Shi†, J. Li, Y. Chen, S. Zhang, S. Xiang, and S. Jin, “PlantNet: A dual-function point cloud segmentation network for multiple plant species”,  <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 184, 2022, pp. 243-263. (†Contributed equally)</p>
 
-[[Code](https://github.com/Huang2002200/PlantNet-and-PSegNet/)]
+[[Code](https://github.com/Huang2002200/PlantNet-and-PSegNet)]
 
 <table border="0">
   <tr>
