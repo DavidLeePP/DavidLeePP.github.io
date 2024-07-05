@@ -57,7 +57,6 @@
 ## Selected Publications:
 
 <p>[1] <b>D. Li</b>†, Z. Zhou†, and Y. Wei, “Unsupervised shape-aware SOM down-sampling for plant point clouds,” <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 211, 2024, pp. 172-207. (†Contributed equally)</p>
-
 <table border="0">
   <tr>
     <td width="100%" align="center">
