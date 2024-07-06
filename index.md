@@ -60,7 +60,7 @@
 
 [[Paper](https://doi.org/10.1016/j.isprsjprs.2024.03.024)]
 
-A 10-minute presentation at [[Presentation](https://www.bilibili.com/video/BV1LTg4enEM5/)]
+[[10-minute presentation](https://www.bilibili.com/video/BV1LTg4enEM5/)]
 
 [[Code](https://github.com/chinazhouzhaoyi/SOM-down-sampling-for-plant-point-clouds/)]
 
@@ -111,7 +111,7 @@ A 10-minute presentation at [[Presentation](https://www.bilibili.com/video/BV1LT
 
 [[Paper](https://spj.science.org/doi/10.34133/2022/9787643)]
 
-A 10-minute presentation at [[Presentation](https://www.bilibili.com/video/BV1EEaTedE4a/)]
+[[10-minute presentation](https://www.bilibili.com/video/BV1EEaTedE4a/)]
 
 [[Code](https://github.com/Huang2002200/PlantNet-and-PSegNet/)]
 
