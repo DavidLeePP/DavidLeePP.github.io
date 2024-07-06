@@ -184,6 +184,8 @@
 
 <p>[6] <b>D. Li</b>†, G. Shi†, J. Li, Y. Chen, S. Zhang, S. Xiang, and S. Jin, “PlantNet: A dual-function point cloud segmentation network for multiple plant species”,  <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 184, 2022, pp. 243-263. (†Contributed equally)</p>
 
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271622000119)]
+
 [[Code](https://github.com/Huang2002200/PlantNet-and-PSegNet/)]
 
 <table border="0">
