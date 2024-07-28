@@ -66,7 +66,7 @@
 
 <table border="0">
   <tr>
-     <td width="70%">
+     <td width="70%" align="right">
       <img src="SOM展示图1a.jpg" width="85%" /> 
     </td>
     <td width="30%">
