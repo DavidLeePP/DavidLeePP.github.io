@@ -67,7 +67,7 @@
 <table border="0">
   <tr>
      <td width="70%">
-      <img src="SOM展示图1a.jpg" width="100%" /> 
+      <img src="SOM展示图1a.jpg" width="85%" /> 
     </td>
     <td width="30%">
       <img src="SOM迭代.gif" width="100%" /> 
