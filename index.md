@@ -63,22 +63,21 @@
 [[10-minute presentation](https://www.bilibili.com/video/BV1LTg4enEM5/)]
 
 [[Code](https://github.com/chinazhouzhaoyi/SOM-down-sampling-for-plant-point-clouds/)]
-<!-- 注释掉
-<table border="0">
-  <tr>
-    <td width="100%" align="center">
-      <img alt="" src="SOM展示图1.jpg" width="85%" style="margin: 0 auto;"  /> 
-    </td>
-  </tr>
-</table>
--->
+
 <table border="0">
   <tr>
      <td width="70%">
-      <img src="SOM展示图1.jpg" width="100%" /> 
+      <img src="SOM展示图1a.jpg" width="100%" /> 
     </td>
     <td width="30%">
-      <img src="PlantNet展示图3.jpg" width="100%" /> 
+      <img src="SOM迭代.gif" width="100%" /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SOM展示图1b.jpg" width="85%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
