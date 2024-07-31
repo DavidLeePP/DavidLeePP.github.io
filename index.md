@@ -374,6 +374,8 @@
 
 [[3-minute presentation](https://www.bilibili.com/video/BV1qyv4enExL)]
 
+[[Paper](https://www.mdpi.com/356514)]
+
 <table border="0">
   <tr>
     <td width="100%" align="center">
