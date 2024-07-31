@@ -371,6 +371,9 @@
 </table>
 
 <p>[14] <b>D. Li</b>, Y. Cao, X.-S. Tang, S. Yan, and X. Cai, “Leaf Segmentation on Dense Plant Point Clouds with Facet Region Growing,” <font color="#5B00AE"><i>Sensors</i></font>, vol. 18, no. 11, Article 3625, 2018.</p>
+
+[[3-minute presentation](https://www.bilibili.com/video/BV1qyv4enExL)]
+
 <table border="0">
   <tr>
     <td width="100%" align="center">
