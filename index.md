@@ -332,6 +332,11 @@
 </table>
 
 <p>[12] <b>D. Li</b>, Y. Cao, G. Shi, X. Cai, Y. Chen, S. Wang, and S. Yan, “An overlapping-free leaf segmentation method for plant point clouds,” <font color="#5B00AE"><i>IEEE Access</i></font>, vol. 7, no. 9, pp. 129054-129070, 2019.</p>
+
+[[A 6-minute presentation](https://www.bilibili.com/video/BV11JveeDEeF/)]
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/8830350)]
+
 <table border="0">
   <tr>
     <td width="100%" align="center">
