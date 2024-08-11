@@ -56,6 +56,36 @@
 
 ## Selected Publications:
 
+<p>[1] <b>D. Li</b>†, L. Liu†, S. Xu, and S. Jin*, “TrackPlant3D: 3D organ growth tracking framework for organ-level dynamic phenotyping,” <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, 2024 (Minor Revision). (†Contributed equally)</p>
+
+[[12-minute presentation](https://www.bilibili.com/video/BV1mKYSeZErt)]
+
+[[Code](https://github.com/entarot/TrackPlant3D-3D-organ-growth-tracking-framework-for-organ-level-dynamic-phenotyping )]
+
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SOM展示图1b.jpg" width="85%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SOM展示图2.jpg" width="60%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="SOM展示图3.jpg" width="98%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+
+
+
 <p>[1] <b>D. Li</b>†, Z. Zhou†, and Y. Wei, “Unsupervised shape-aware SOM down-sampling for plant point clouds,” <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, vol. 211, 2024, pp. 172-207. (†Contributed equally)</p>
 
 [[Paper](https://doi.org/10.1016/j.isprsjprs.2024.03.024)]
