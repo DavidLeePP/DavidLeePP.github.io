@@ -56,7 +56,7 @@
 
 ## Selected Publications:
 
-<p>[1] <b>D. Li</b>†, L. Liu†, S. Xu, and S. Jin*, “TrackPlant3D: 3D organ growth tracking framework for organ-level dynamic phenotyping,” <font color="#5B00AE"><i>ISPRS Journal of Photogrammetry and Remote Sensing</i></font>, 2024 (Minor Revision). (†Contributed equally)</p>
+<p>[1] <b>D. Li</b>†, L. Liu†, S. Xu, and S. Jin*, “TrackPlant3D: 3D organ growth tracking framework for organ-level dynamic phenotyping,” <font color="#5B00AE"><i>Computers and Electronics in Agriculture</i></font>, 2024 (Minor Revision). (†Contributed equally)</p>
 
 [[12-minute presentation](https://www.bilibili.com/video/BV1mKYSeZErt)]
 
