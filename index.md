@@ -65,7 +65,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="TrackPlant3D2.jpg" width="85%" style="margin: 0 auto;"  /> 
+      <img alt="" src="TrackPlant3D2.jpg" width="65%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
