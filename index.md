@@ -574,13 +574,7 @@
   </tr>
 </table>
 
-<table border="0">
-  
-    <td width="100%" align="left">
-      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"></script> 
-    </td>
-  
-</table>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"></script> 
       
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
