@@ -582,7 +582,7 @@
 <table border="0">
   <tr>
     <td width="40%" align="center">
-      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"></script> 
+      <a href="https://clustrmaps.com/site/1c3d2" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff"></a> 
     </td>
     <td width="60%" align="center">
       <img alt="" src="" width="80%" style="margin: 0 auto;"  /> 
