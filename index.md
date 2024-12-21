@@ -574,8 +574,19 @@
   </tr>
 </table>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"></script> 
+
       
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
 
+<table border="0">
+  <tr>
+    <td width="40%" align="center">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"></script> 
+    </td>
+    <td width="60%" align="center">
+      <img alt="" src="" width="80%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+ 
