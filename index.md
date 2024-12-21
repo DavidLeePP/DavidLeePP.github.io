@@ -26,7 +26,7 @@
 ## Teaching:
 <p><i>Semester A (Autumn): </i></p>
 <p>1.	Data Analysis and Machine Learning (for graduate students). </p>
-<p>2.	Pattern Recognition Principles and Techniques (for international student/Joint course with Dr. Huang).</p>
+<p>2.	Pattern Recognition Principles and Techniques (for international student/joint course with Dr. Huang).</p>
 <p>3.	Frontiers of AI (for undergraduates).</p>
 <p>4.	Professional Introduction (for undergraduates).</p>
 <p><i>Semester B (Spring): </i></p>
