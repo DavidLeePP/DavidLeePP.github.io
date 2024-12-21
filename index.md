@@ -65,7 +65,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="3D-NOD1.gif" width="65%" style="margin: 0 auto;"  /> 
+      <img alt="" src="3D-NOD1.gif" width="85%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
