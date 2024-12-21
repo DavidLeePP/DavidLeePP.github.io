@@ -212,6 +212,9 @@
 -->
 
 <p>[6] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, vol. 11, no. 7: 937, 2022. (†Contributed equally)</p>
+
+[[Code](https://github.com/foysalahmed10/YOLO-JD)]
+
 <table border="0">
   <tr>
     <td width="100%" align="center">
