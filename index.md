@@ -26,9 +26,12 @@
 ## Teaching:
 <p><i>Semester A (Autumn): </i></p>
 <p>1.	Data Analysis and Machine Learning (for graduate students). </p>
-<p>2.	Pattern Recognition Principles and Techniques (for international students).</p>
+<p>2.	Pattern Recognition Principles and Techniques (for international student/Joint course with Dr. Huang).</p>
+<p>3.	Frontiers of AI (for undergraduates).</p>
+<p>4.	Professional Introduction (for undergraduates).</p>
 <p><i>Semester B (Spring): </i></p>
-<p>1.	Digital Signal Processing (for undergraduates).</p>
+<p>1.	Machine Learning (for undergraduates).</p>
+<p>2.	Production Practice for AI (for undergraduates/joint course with Dr. Pan).</p>
 
 ## Research Projects and Talent Programs:
 <p>1.	Shanghai Rising-Star Program, Person in Charge. (07/2021-06/2024).</p>
