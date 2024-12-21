@@ -574,11 +574,10 @@
   </tr>
 </table>
 
-
 <table border="0">
   <tr>
-    <td width="60%" align="center">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30"></script>
+    <td width="100%" align="left">
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30"></script> 
     </td>
   </tr>
 </table>
