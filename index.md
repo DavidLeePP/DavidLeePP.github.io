@@ -579,5 +579,5 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="300" height="147"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="40%" style="margin: 0 auto;"></script>
  
