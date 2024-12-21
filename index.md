@@ -577,7 +577,7 @@
 <table border="0">
   
     <td width="100%" align="left">
-      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30"></script> 
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"></script> 
     </td>
   
 </table>
