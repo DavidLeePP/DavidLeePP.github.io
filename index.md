@@ -56,6 +56,26 @@
 
 ## Selected Publications:
 
+<p>[1] <b>D. Li</b>†, F. Ahmed†, and Z. Wang†, “3D-NOD:  3D New Organ Detection in Plant Growth by a Spatiotemporal Point Cloud Deep Segmentation Framework,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2024 (Minor Revision). (†Contributed equally).</p>
+
+[[11-minute presentation](https://www.bilibili.com/video/BV1HGktYoEwP/)]
+
+[[Code](https://github.com/zingersu/3D-New-Organ-Detection-in-Plant-Growth-from-Spatiotemporal-Point-Clouds)]
+
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="TrackPlant3D2.jpg" width="65%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="TrackPlant3D1.jpg" width="85%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
 <p>[2] <b>D. Li</b>†, L. Liu†, S. Xu, and S. Jin*, “TrackPlant3D: 3D organ growth tracking framework for organ-level dynamic phenotyping,” <font color="#5B00AE"><i>Computers and Electronics in Agriculture</i></font>, Vol. 226, 2024, 109435. (†Contributed equally).</p>
 
 [[12-minute presentation](https://www.bilibili.com/video/BV1mKYSeZErt)]
