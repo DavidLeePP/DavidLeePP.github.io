@@ -575,8 +575,14 @@
 </table>
 
 
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30"></script>
+<table border="0">
+  <tr>
+    <td width="60%" align="center">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30"></script>
+    </td>
+  </tr>
+</table>
+      
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
 
