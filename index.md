@@ -59,7 +59,9 @@
 
 ## Selected Publications:
 
-<p>[1] <b>D. Li</b>†, F. Ahmed†, and Z. Wang†, “3D-NOD:  3D New Organ Detection in Plant Growth by a Spatiotemporal Point Cloud Deep Segmentation Framework,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2025 (Accepted). (†Contributed equally).</p>
+<p>[1] <b>D. Li</b>†, F. Ahmed†, and Z. Wang†, “3D-NOD:  3D New Organ Detection in Plant Growth by a Spatiotemporal Point Cloud Deep Segmentation Framework,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2025, Vol. 7, No. 1, 100002. (†Contributed equally).</p>
+
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2643651525000081)]
 
 [[11-minute presentation](https://www.bilibili.com/video/BV1HGktYoEwP/)]
 
