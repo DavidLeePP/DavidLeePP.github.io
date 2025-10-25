@@ -90,6 +90,8 @@
 </table>
 <p>[2] <b>D. Li</b>†, L. Liu†, S. Xu, and S. Jin*, “TrackPlant3D: 3D organ growth tracking framework for organ-level dynamic phenotyping,” <font color="#5B00AE"><i>Computers and Electronics in Agriculture</i></font>, Vol. 226, 2024, 109435. (†Contributed equally).</p>
 
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169924008263)]
+
 [[12-minute presentation](https://www.bilibili.com/video/BV1mKYSeZErt)]
 
 [[Code](https://github.com/entarot/TrackPlant3D-3D-organ-growth-tracking-framework-for-organ-level-dynamic-phenotyping )]
