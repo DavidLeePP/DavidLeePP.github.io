@@ -62,6 +62,8 @@
 
 <p>[1] <b>D. Li</b>†, J. Huang†, B. Zhao, and W. Wen*, “Organ3DNet: a deep network for segmenting organ semantics and instances from dense plant point clouds,” <font color="#5B00AE"><i>Artificial Intelligence in Agriculture</i></font>, Oct. 2025, Accepted. (†Contributed equally).</p>
 
+[[Paper](https://www.sciencedirect.com/science/article/pii/S2589721725000911)]
+
 [[Code](https://github.com/Huang2002200/Organ3DNet)]
 
 <table border="0">
