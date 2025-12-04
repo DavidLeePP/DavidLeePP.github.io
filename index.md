@@ -652,15 +652,8 @@
   </tr>
 </table>
 
-    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
-<!--
-<body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="40%" style="margin: 0 auto;"></script>
-</body> 
--->
-
 <!-- 外层容器控制整体宽度和居中 -->
 <div style="width: 50%; max-width: 600px; margin: 0 auto; text-align: center; position: relative;">
   <!-- 插件脚本，移除自身的width设置 -->
@@ -670,7 +663,6 @@
     src="https://clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"
     style="height: 400px; display: block; margin: 0 auto;"
   ></script>
-  
   <!-- 关键：添加CSS样式，直接控制插件生成的地图元素 -->
   <style>
     /* 针对ClustrMaps生成的iframe或div设置宽度 */
@@ -683,4 +675,10 @@
     }
   </style>
 </div>
+
+<!--
+<body>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="40%" style="margin: 0 auto;"></script>
+</body> 
+-->
 
