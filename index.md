@@ -652,18 +652,14 @@
   </tr>
 </table>
 
-
-      
+    
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
-
 <!--
 <body>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="40%" style="margin: 0 auto;"></script>
 </body> 
 -->
-
-
 <!-- 直接计算网页宽度的一半，例如假设网页最大宽度为1200px，则地图宽度为600px -->
 <div style="width: 600px; max-width: 50%; margin: 0 auto; text-align: center;">
   <script 
@@ -672,7 +668,6 @@
     src="https://clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"
     style="height: 400px; display: block;"
   ></script>
-  
   <!-- 强制控制插件生成的元素 -->
   <style>
     #clustrmaps-container,
@@ -682,18 +677,5 @@
     }
   </style>
 </div>
-
-<!-- 注释掉该句 <p>➤ <a href=""><strong></strong></a></p>  
-        <table style="width:16%;max-width:400px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-           <tr>  
-          <td style="width:100%; vertical-align:middle; text-align:center;">
-              <p>
-                <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="40%" style="margin: 0 auto;"></script>
-              </p>
-            </td>
-               </tr>
-        </table>
-</body> 
--->
 
 
