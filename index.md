@@ -665,7 +665,7 @@
 
 
 <!-- 简化布局，直接使用div容器居中，避免table的复杂宽度计算 -->
-<div style="width: 100%; max-width: 600px; margin: 0 auto; text-align: center;">
+<div style="width: 50%; max-width: 600px; margin: 0 auto; text-align: center;">
   <!-- 移除script标签的width属性，让插件根据容器自适应 -->
   <!-- 添加明确的height，确保地图有足够显示空间 -->
   <script 
