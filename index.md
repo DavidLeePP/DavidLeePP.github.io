@@ -655,32 +655,30 @@
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
 
-<!-- 紧凑结构，避免Markdown自动换行 -->
-<div style="width: 50%; max-width: 600px; margin: 0 auto; padding: 0; line-height: 0; font-size: 0; position: relative;">
+<!-- 外层容器直接添加ID，便于精确控制 -->
+<div id="map-container" style="width: 50%; max-width: 600px; margin: 0 auto; padding: 0; line-height: 0; font-size: 0; position: relative;">
   <script 
     type="text/javascript" 
     id="clustrmaps" 
     src="https://clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"
     style="height: 400px; display: block; margin: 0 !important; padding: 0 !important;"
   ></script>
-  <!-- 强制清除插件生成元素的顶部空白 -->
   <style>
-    /* 重置容器默认样式 */
-    #clustrmaps, #clustrmaps-container, #clustrmaps-container iframe, [id^="clustrmaps-widget"] {
+    /* 直接针对ID控制容器 */
+    #map-container {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+    }
+    /* 其他样式保持不变 */
+    #clustrmaps, #clustrmaps-container, #clustrmaps-container iframe {
       margin: 0 !important;
       padding: 0 !important;
       border: none !important;
       line-height: normal !important;
       font-size: initial !important;
     }
-    /* 直接消除插件顶部空白（关键） */
     #clustrmaps-container {
       margin-top: 0 !important;
-    }
-    /* 抵消Markdown可能添加的前后空白 */
-    div:has(#clustrmaps) {
-      margin-top: 0 !important;
-      margin-bottom: 0 !important;
     }
   </style>
 </div>
