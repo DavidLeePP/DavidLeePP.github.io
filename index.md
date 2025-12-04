@@ -664,16 +664,23 @@
 -->
 
 
-<!-- 简化布局，直接使用div容器居中，避免table的复杂宽度计算 -->
-<div style="width: 50%; max-width: 600px; margin: 0 auto; text-align: center;">
-  <!-- 移除script标签的width属性，让插件根据容器自适应 -->
-  <!-- 添加明确的height，确保地图有足够显示空间 -->
+<!-- 直接计算网页宽度的一半，例如假设网页最大宽度为1200px，则地图宽度为600px -->
+<div style="width: 600px; max-width: 50%; margin: 0 auto; text-align: center;">
   <script 
     type="text/javascript" 
     id="clustrmaps" 
     src="https://clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"
-    style="width: 50%; height: 400px; display: block; margin: 0 auto;"
+    style="height: 400px; display: block;"
   ></script>
+  
+  <!-- 强制控制插件生成的元素 -->
+  <style>
+    #clustrmaps-container,
+    #clustrmaps-container iframe {
+      width: 100% !important;
+      max-width: 100% !important;
+    }
+  </style>
 </div>
 
 <!-- 注释掉该句 <p>➤ <a href=""><strong></strong></a></p>  
