@@ -660,12 +660,11 @@
 
 <div class="footer-col footer-col-3">
         <table style="width:16%;max-width:400px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tbody><tr>
             <td style="width:100%; vertical-align:middle; text-align:center;">
               <p>
                 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"></script>
               </p>
-          </td>
+            </td>
         </table>
 </div>
 
