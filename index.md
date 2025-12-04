@@ -660,7 +660,7 @@
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="40%" style="margin: 0 auto;"></script>
 </body> 
 
-<div class="footer">
+
         <table style="width:16%;max-width:400px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <td style="width:100%; vertical-align:middle; text-align:center;">
               <p>
@@ -668,7 +668,7 @@
               </p>
             </td>
         </table>
-</div>
+
 
 
 
