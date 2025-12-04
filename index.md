@@ -1,6 +1,36 @@
 # Welcome to Dawei Li's Homepage!
 <!-- 注释掉该句# Welcome to Dawei Li's Personal Homepage! -->
 
+<script type="text/javascript">
+    function ShowHide(divId, linkDivId) {
+        if(document.getElementById(divId).style.display == 'none') {
+            document.getElementById(divId).style.display='block';
+            document.getElementById(linkDivId).style.display='none'; // Hide the "read more" link
+        }
+        else {
+            document.getElementById(divId).style.display = 'none';
+        }
+    }
+  </script>
+
+  <style>
+    /* 为所有列表项设置样式 */
+    li.indented {
+        position: relative;
+        padding-left: 120px; /* 这是对齐效果的关键，可以根据实际内容调整这个值 */
+    }
+
+    li.indented::before {
+        content: attr(data-date);
+        position: absolute;
+        left: 0;
+        top: 0;
+        white-space: nowrap;
+    }
+  </style>
+
+
+
 <table border="0">
   <tr>
     <td width="100%">
@@ -658,7 +688,7 @@
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="40%" style="margin: 0 auto;"></script>
 </body> 
 
-<div class="footer-col footer-col-3">
+<div class="footer">
         <table style="width:16%;max-width:400px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <td style="width:100%; vertical-align:middle; text-align:center;">
               <p>
