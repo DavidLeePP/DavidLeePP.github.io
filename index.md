@@ -656,10 +656,11 @@
       
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
+<!-- 注释掉该句 <p>➤ <a href=""><strong></strong></a></p>  
 <body>
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a" width="40%" style="margin: 0 auto;"></script>
 </body> 
-
+-->
 <body>
         <table style="width:16%;max-width:400px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
            <tr>  
