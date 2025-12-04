@@ -672,7 +672,7 @@
     type="text/javascript" 
     id="clustrmaps" 
     src="https://clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"
-    style="width: 100%; height: 400px; display: block; margin: 0 auto;"
+    style="width: 50%; height: 400px; display: block; margin: 0 auto;"
   ></script>
 </div>
 
