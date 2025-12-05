@@ -654,34 +654,32 @@
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <p align="left"><b>The webpage has been visited <span id="busuanzi_value_site_pv"></span> times.</b></p>
-
-<!-- 外层容器控制整体宽度和居中，消除内边距/外边距影响 -->
-<div style="width: 60%; max-width: 600px; margin: 0 auto; text-align: center; position: relative; padding: 0; border: 0;">
-  <!-- 插件脚本：移除block显示（脚本默认inline），仅保留必要样式 -->
+<!-- 外层容器控制整体宽度和居中 -->
+<div style="width: 50%; max-width: 600px; margin: 0 auto; text-align: center; position: relative;">
+  <!-- 插件脚本，移除自身的width设置 -->
   <script 
     type="text/javascript" 
     id="clustrmaps" 
     src="https://clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"
-    style="height: 400px; vertical-align: top; /* 消除inline元素默认垂直对齐空白 */"
+    style="height: 400px; display: block; margin: 0 auto;"
   ></script>
   
-  <!-- 强化样式覆盖：消除所有可能的空白边距和多余高度 -->
+  <!-- 关键：添加CSS样式，直接控制插件生成的地图元素 -->
   <style>
-    /* 覆盖插件生成的所有容器/iframe样式 */
+    /* 针对ClustrMaps生成的iframe或div设置宽度 */
     #clustrmaps-container,
     #clustrmaps-container iframe,
-    [id^="clustrmaps-widget"],
-    [class*="clustrmaps"] {
-      width: 100% !important;
+    [id^="clustrmaps-widget"] {
+      width: 100% !important; /* 继承父容器的50%宽度 */
       max-width: 100% !important;
-      height: 400px !important; /* 强制统一高度，避免插件自动加高度 */
       margin: 0 !important;      /* 彻底消除外边距 */
       padding: 0 !important;     /* 彻底消除内边距 */
       border: none !important;   /* 移除默认边框（如有） */
       display: block !important; /* 统一显示方式 */
       line-height: 0 !important; /* 消除行高导致的空白 */
-      box-sizing: border-box !important; /* 避免盒模型导致的尺寸偏差 */
     }
   </style>
 </div>
+
+
 
