@@ -661,7 +661,7 @@
     type="text/javascript" 
     id="clustrmaps" 
     src="https://clustrmaps.com/map_v2.js?d=jXbSyu9yHiqrIMG4S_wgh10OvbCo0cw11tLcV38Qv30&cl=ffffff&w=a"
-    style="height: 400px; display: block; margin: 0 auto;"
+    style="height: 400px; vertical-align: top; /* 消除inline元素默认垂直对齐空白 */"
   ></script>
   
   <!-- 关键：添加CSS样式，直接控制插件生成的地图元素 -->
