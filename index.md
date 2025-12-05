@@ -682,14 +682,6 @@
       line-height: 0 !important; /* 消除行高导致的空白 */
       box-sizing: border-box !important; /* 避免盒模型导致的尺寸偏差 */
     }
-    /* 额外处理：如果插件生成body内的全局空白 */
-    body > #clustrmaps-container {
-      margin: 0 auto !important;
-    }
-    /* 消除外层容器的伪元素/子元素空白 */
-    [id="clustrmaps"] + * {
-      margin-top: 0 !important;
-    }
   </style>
 </div>
 
