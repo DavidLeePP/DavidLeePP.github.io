@@ -64,7 +64,7 @@
 
 <p>[0] <b>D. Li</b>†, Z. Wang†, L. Liu, and M. Li*, “3D-OGT: 3D organ growth tracking with minimum segmentation,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2026 in Revision. (†Contributed equally).</p>
 
-[[10-minute presentation](https://www.bilibili.com/video/BV1BgsRzhEQj)]
+[[10-minute presentation](https://www.bilibili.com/video/BV12hkuB3EuH)]
 
 [[Code](https://github.com/zingersu/3D-organ-growth-tracking-with-minimum-segmentation)]
 
