@@ -62,6 +62,34 @@
 
 ## Selected Publications:
 
+<p>[0] <b>D. Li</b>†, Z. Wang†, L. Liu, and M. Li*, “3D-OGT: 3D organ growth tracking with minimum segmentation,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2026 in Revision. (†Contributed equally).</p>
+
+[[10-minute presentation](https://www.bilibili.com/video/BV1BgsRzhEQj)]
+
+[[Code](https://github.com/zingersu/3D-organ-growth-tracking-with-minimum-segmentation)]
+
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="3D-OGT1.gif" width="85%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="3D-OGT2.jpg" width="85%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
+      <img alt="" src="3D-OGT3.jpg" width="85%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+
 <p>[1] <b>D. Li</b>†, J. Huang†, B. Zhao, and W. Wen*, “Organ3DNet: a deep network for segmenting organ semantics and instances from dense plant point clouds,” <font color="#5B00AE"><i>Artificial Intelligence in Agriculture</i></font>, Vol. 16, No. 1, March 2026, pp. 342-364. (†Contributed equally).</p>
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2589721725000911)]
