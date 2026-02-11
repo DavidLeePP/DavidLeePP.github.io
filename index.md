@@ -109,7 +109,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="Pepper3.jpg" width="85%" style="margin: 0 auto;"  /> 
+      <img alt="" src="Pepper3.png" width="85%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
