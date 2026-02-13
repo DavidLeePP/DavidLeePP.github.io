@@ -8,8 +8,9 @@
     <td width="100%">
       <h2>Dawei Li 李大威</h2>
       <p><b>PhD, Associate Professor</b></p>
+      <p><b>Vice Dean of School of Information and Intelligent Science</b></p>
       <p><b>Dean of Automation Department</b></p>
-      <p><b>I am with the College of Information Sciences and Technology, the Engineering Research Center of Digitized Textile & Fashion Technology of Ministry of Education, and with the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM)</b></p>
+      <p><b>I am with the School of Information and Intelligent Science, the Engineering Research Center of Digitized Textile & Fashion Technology of Ministry of Education, and with the State Key Laboratory for Modification of Chemical Fibers and Polymer Materials (SKLFPM)</b></p>
       <p><b>Donghua University (211, Double First-Class)</b></p>
       <p><b>2999 North Renmin Rd., Songjiang District, Shanghai, China 201620</b></p>
       <p><b>Email: daweili[A.T.]dhu.edu.cn</b></p>
@@ -95,7 +96,9 @@
   </tr>
 </table>
 
-<p>[2] F. Ahmed†, <b>D. Li</b>†, B. Zhao, Z. Wang, J. Huang, T. Li, J. Huang, J. Hou, S. Jobaer, and H. Yan*, “Pepper-4D: spatiotemporal 3D pepper crop dataset for phenotyping,” <font color="#5B00AE"><i>Plants</i></font>, 2026, accepted. (†Contributed equally).</p>
+<p>[2] F. Ahmed†, <b>D. Li</b>†, B. Zhao, Z. Wang, J. Huang, T. Li, J. Huang, J. Hou, S. Jobaer, and H. Yan*, “Pepper-4D: spatiotemporal 3D pepper crop dataset for phenotyping,” <font color="#5B00AE"><i>Plants</i></font>, Vol. 15, No. 4, 599, 2026. (†Contributed equally).</p>
+
+[[Paper](https://www.mdpi.com/2223-7747/15/4/599)]
 
 [[Code](https://github.com/foysalahmed10/Pepper-4D)]
 
@@ -122,6 +125,8 @@
 </table>
 
 <p>[3] <b>D. Li</b>†, Z. Wang†, L. Liu, and M. Li*, “3D-OGT: 3D organ growth tracking with minimum segmentation,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2026, accepted. (†Contributed equally).</p>
+
+[[Paper](https://www.sciencedirect.com/science/article/pii/S264365152600018X)]
 
 [[10-minute presentation](https://www.bilibili.com/video/BV12hkuB3EuH)]
 
