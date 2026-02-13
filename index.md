@@ -83,15 +83,11 @@
 </table>
 <table border="0">
   <tr>
-    <td width="100%" align="center">
-      <img alt="" src="DBGCN3.jpg" width="50%" style="margin: 0 auto;"  /> 
+     <td width="40%" align="right">
+      <img src="DBGCN3.jpg" width="100%" /> 
     </td>
-  </tr>
-</table>
-<table border="0">
-  <tr>
-    <td width="100%" align="center">
-      <img alt="" src="DBGCN4.jpg" width="70%" style="margin: 0 auto;"  /> 
+    <td width="60%">
+      <img src="DBGCN4.jpg" width="100%" /> 
     </td>
   </tr>
 </table>
