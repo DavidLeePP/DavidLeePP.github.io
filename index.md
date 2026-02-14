@@ -197,7 +197,7 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="AR-PLANT2.jpg" width="85%" style="margin: 0 auto;"  /> 
+      <img alt="" src="AR-PLANT2.jpg" width="70%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
