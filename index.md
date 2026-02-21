@@ -120,7 +120,7 @@
   </tr>
 </table>
 
-<p>[3] <b>D. Li</b>†, Z. Wang†, L. Liu, and M. Li*, “3D-OGT: 3D organ growth tracking with minimum segmentation,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2026, accepted. (†Contributed equally).</p>
+<p>[3] <b>D. Li</b>†, Z. Wang†, L. Liu, and M. Li*, “3D-OGT: 3D organ growth tracking with minimum segmentation,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, vol. 8, no. 1, March 2026, 100181. https://doi.org/10.1016/j.plaphe.2026.100181 (†Contributed equally).</p>
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S264365152600018X)]
 
