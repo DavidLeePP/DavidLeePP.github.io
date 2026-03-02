@@ -70,14 +70,14 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="DBGCN1.jpg" width="50%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DBGCN1.jpg" width="60%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="DBGCN2.jpg" width="85%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DBGCN2.jpg" width="65%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
