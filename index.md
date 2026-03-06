@@ -65,6 +65,8 @@
 
 <p>[1] <b>D. Li</b>†, Z. Zhou†, S. Yang, and W. Wen*, “DBGCN: Dual-branch Graph Convolutional Network for organ instance inference on sparsely labeled 3D plant data,” <font color="#5B00AE"><i>Plant Phenomics</i></font>, 2026, accepted. (†Contributed equally).</p>
 
+[[8-minute Presentation](https://www.bilibili.com/video/BV1AFPszNEr1)]
+
 [[Code](https://github.com/chinazhouzhaoyi/DBGCN/tree/master/)]
 
 <table border="0">
