@@ -72,14 +72,14 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="DBGCN1.jpg" width="60%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DBGCN1.jpg" width="65%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="DBGCN2.jpg" width="65%" style="margin: 0 auto;"  /> 
+      <img alt="" src="DBGCN2.jpg" width="69%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
@@ -382,6 +382,8 @@
 <p>[12] <b>D. Li</b>†, F. Ahmed†, N. Wu, and A. I. Sethi, “YOLO-JD: A Deep Learning Network for Jute Diseases and Pests Detection from Images,” <font color="#5B00AE"><i>Plants</i></font>, vol. 11, no. 7: 937, 2022. (†Contributed equally)</p>
 
 [[Code](https://github.com/foysalahmed10/YOLO-JD)]
+
+[[Paper](https://www.mdpi.com/2223-7747/11/7/937)]
 
 <table border="0">
   <tr>
