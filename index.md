@@ -158,6 +158,8 @@
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S2589721725000911)]
 
+[[8-minute presentation](https://www.bilibili.com/video/BV1mn9uBME4X)]
+
 [[Code](https://github.com/Huang2002200/Organ3DNet)]
 
 <table border="0">
