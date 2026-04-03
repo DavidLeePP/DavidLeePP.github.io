@@ -165,6 +165,13 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
+      <img alt="" src="Organ3DNet-1.gif" width="85%" style="margin: 0 auto;"  /> 
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="100%" align="center">
       <img alt="" src="Organ3DNet-1.jpg" width="85%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
@@ -173,13 +180,6 @@
   <tr>
     <td width="100%" align="center">
       <img alt="" src="Organ3DNet-2.jpg" width="85%" style="margin: 0 auto;"  /> 
-    </td>
-  </tr>
-</table>
-<table border="0">
-  <tr>
-    <td width="100%" align="center">
-      <img alt="" src="Organ3DNet-3.jpg" width="85%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
