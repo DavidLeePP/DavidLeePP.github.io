@@ -73,21 +73,21 @@
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="BRICE1.png" width="80%" style="margin: 0 auto;"  /> 
+      <img alt="" src="BRICE1.png" width="85%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
     <td width="100%" align="center">
-      <img alt="" src="BRICE2.gif" width="75%" style="margin: 0 auto;"  /> 
+      <img alt="" src="BRICE2.gif" width="80%" style="margin: 0 auto;"  /> 
     </td>
   </tr>
 </table>
 <table border="0">
   <tr>
      <td width="100%" align="center">
-      <img alt="" src="BRICE3.png" width="80%" style="margin: 0 auto;"  /> 
+      <img alt="" src="BRICE3.png" width="85%" style="margin: 0 auto;"  /> 
      </td>
   </tr>
 </table>
