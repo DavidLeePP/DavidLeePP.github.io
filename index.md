@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-<p>[2] <b>D. Li</b>*, and J. Huang, “HagPF: Hierarchical-annotation-guided Phenotypic Framework for Stem Instance Segmentation and Length Measurement in plant point clouds,” <font color="#5B00AE"><i>Smart Agricultural Technology</i></font>, 2026, 102346.</p>
+<p>[2] <b>D. Li</b>†*, and J. Huang†, “HagPF: Hierarchical-annotation-guided Phenotypic Framework for Stem Instance Segmentation and Length Measurement in plant point clouds,” <font color="#5B00AE"><i>Smart Agricultural Technology</i></font>, 2026, 102346. (†Contributed equally)</p>
 
 [[Paper](https://www.sciencedirect.com/science/article/pii/S277237552600571X)]
 
